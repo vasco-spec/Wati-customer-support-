@@ -94,6 +94,12 @@ To add Wati's official MCP as well, see [docs/official-wati-mcp.md](docs/officia
 
 See `.env.example`.
 
+### Troubleshooting
+
+- **`fetch failed` behind a corporate/HTTP proxy:** Node's built-in `fetch` ignores `HTTPS_PROXY` by default. On Node ≥ 22.21, add `"NODE_USE_ENV_PROXY": "1"` to the server's `env` (and `NODE_EXTRA_CA_CERTS` if the proxy uses its own CA).
+- **HTTP 401:** the token is expired or revoked, or it belongs to another region. EU tokens only work with `https://eu-api.wati.io`.
+- **HTTP 403 on `support_inbox`:** the conversation query API needs a Growth, Pro or Business plan and the `conversationsv3:read` scope. `support_list_conversations` still works.
+
 ## Example requests to Claude
 
 - *"Triage my inbox. Who's been waiting the longest without an answer?"*

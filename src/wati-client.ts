@@ -49,6 +49,8 @@ export interface ConversationEvent {
   failed_detail?: string | null;
   bot_type?: string | null;
   local_message_id?: string | null;
+  /** Present on ticket events, e.g. "The chat has been closed by Bot". */
+  event_description?: string | null;
   [key: string]: unknown;
 }
 

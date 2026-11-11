@@ -68,8 +68,9 @@ function fmtTime(d: Date | undefined): string {
 
 function senderLabel(e: ConversationEvent): string {
   if (e.owner === false) return "Customer";
-  if (e.operator_name) return `Agent (${e.operator_name})`;
-  if (e.bot_type) return `Bot (${e.bot_type})`;
+  if (e.bot_type) return "Bot";
+  const operator = e.operator_name?.trim();
+  if (operator) return `Agent (${operator})`;
   return "Business";
 }
 
@@ -85,8 +86,9 @@ export function formatTranscript(events: ConversationEvent[]): string {
   for (const e of sorted) {
     const when = fmtTime(eventTime(e));
     if (!isMessage(e)) {
-      const extra = oneLine(e.text) || "";
-      lines.push(`[${when}] · ${e.event_type ?? "event"}${extra ? `: ${extra}` : ""}`);
+      const desc = typeof e.event_description === "string" ? e.event_description : "";
+      const extra = oneLine(desc || e.text, 300);
+      lines.push(`[${when}] · ${extra || e.event_type || "event"}`);
       continue;
     }
     const kind = (e.type ?? "text").toLowerCase();

@@ -50,13 +50,17 @@ describe("formatting", () => {
   it("formats media, failures and non-message events", () => {
     const out = formatTranscript([
       { event_type: "message", owner: false, type: "image", text: "data/images/x.jpg", created: "2026-11-11T10:00:00Z" },
-      { event_type: "ticket", text: "Assigned to Ana", created: "2026-11-11T10:01:00Z" },
+      { event_type: "ticket", text: "", event_description: "The chat has been closed by Bot", created: "2026-11-11T10:01:00Z" },
       { event_type: "message", owner: true, text: "hi", failed_detail: "Re-engagement message", created: "2026-11-11T10:02:00Z" },
+      { event_type: "message", owner: true, text: "Ola", operator_name: "Bot ", bot_type: "regular", timestamp: "1794439121", created: "2026-11-11T23:18:43Z" },
+      { event_type: "ticket", text: "", created: "2026-11-11T10:03:00Z" },
     ]);
     expect(out.split("\n")).toEqual([
       "[2026-11-11 10:00Z] Customer: [image] data/images/x.jpg",
-      "[2026-11-11 10:01Z] · ticket: Assigned to Ana",
+      "[2026-11-11 10:01Z] · The chat has been closed by Bot",
       "[2026-11-11 10:02Z] Business: hi [FAILED: Re-engagement message]",
+      "[2026-11-11 10:03Z] · ticket",
+      "[2026-11-11 23:18Z] Bot: Ola",
     ]);
   });
 
