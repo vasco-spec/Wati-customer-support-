@@ -158,6 +158,7 @@ describe("support_inbox", () => {
               session_state: "open",
               tags: [{ id: "t1", name: "refund" }],
               context: { messages: [{ direction: "inbound", text: "I want a refund", sent_at: minutesAgo(120) }] },
+              matched_messages: [{ direction: "outbound", text: "Refunds take 5 days", sent_at: minutesAgo(500) }],
             },
           ],
           page: { has_more: true, next_cursor: "CUR" },
@@ -168,6 +169,7 @@ describe("support_inbox", () => {
     expect(res.isError).toBe(false);
     expect(res.text.indexOf("conversation_id=b")).toBeLessThan(res.text.indexOf("conversation_id=a"));
     expect(res.text).toContain("Customer: I want a refund");
+    expect(res.text).toContain("matching messages:\n    Business: Refunds take 5 days");
     expect(res.text).toContain("tags=refund");
     expect(res.text).toContain('cursor="CUR"');
     const body = calls[0]!.body as Record<string, any>;

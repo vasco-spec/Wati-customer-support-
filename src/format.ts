@@ -134,8 +134,10 @@ export function formatQueueItem(item: QueryItem, index: number): string {
     `   24h_window=${item.session_state ?? "?"}${item.reply_window_expires_at ? ` (expires ${item.reply_window_expires_at})` : ""}  channel=${item.channel?.type ?? "?"}${item.channel?.business_number ? `:${item.channel.business_number}` : ""}`,
   ];
   if (tags) lines.push(`   tags=${tags}`);
-  const preview = previewMessages(item.context?.messages ?? item.matched_messages);
-  if (preview.length) lines.push("   recent:", ...preview);
+  const matched = previewMessages(item.matched_messages, 5);
+  if (matched.length) lines.push("   matching messages:", ...matched);
+  const recent = previewMessages(item.context?.messages);
+  if (recent.length) lines.push("   recent:", ...recent);
   return lines.join("\n");
 }
 
