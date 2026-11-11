@@ -99,6 +99,9 @@ function windowLine(w: WindowState): string {
   } ${w.expires_at}`;
 }
 
+const ALL_STATUSES = ["new", "open", "pending", "solved", "expired", "broadcast", "awaiting_response"] as const;
+const UNSOLVED_STATUSES = ALL_STATUSES.filter((s) => s !== "solved");
+
 const WINDOW_CLOSED_HELP =
   "WhatsApp only allows free-form, media and interactive messages within 24 hours of the customer's last message. " +
   "Use support_list_templates to pick an approved template and send it with support_send_template instead.";
@@ -161,8 +164,8 @@ export function registerTools(server: McpServer, client: WatiClient, config: Con
       title: "Support inbox (triage queue)",
       description:
         "List conversations that need attention, longest-waiting first. By default shows conversations where the " +
-        "customer is waiting for a reply from us in the last 7 days, with the latest messages, 24h-window state, " +
-        "assignment and tags. Uses Wati's conversation query API (Growth, Pro or Business plan).",
+        "customer is waiting for a reply from us in the last 7 days (solved conversations hidden), with the latest " +
+        "messages, 24h-window state, assignment and tags. Uses Wati's conversation query API (Growth, Pro or Business plan).",
       inputSchema: {
         waiting_on: z
           .enum(["us", "customer", "any"])
@@ -170,9 +173,13 @@ export function registerTools(server: McpServer, client: WatiClient, config: Con
           .describe("'us' = customer is awaiting our reply; 'customer' = we replied last; 'any' = no filter."),
         assignment: z.enum(["unassigned", "assigned", "any"]).default("any"),
         statuses: z
-          .array(z.enum(["new", "open", "pending", "solved", "expired", "broadcast", "awaiting_response"]))
+          .array(z.enum(ALL_STATUSES))
           .optional()
-          .describe("Filter by conversation status. Omit for all statuses."),
+          .describe("Filter by conversation status. Omit for every status except solved (see include_solved)."),
+        include_solved: z
+          .boolean()
+          .default(false)
+          .describe("Also show solved conversations (e.g. a customer saying 'thanks' after it was closed). Ignored when statuses is set."),
         since_hours: z
           .number()
           .int()
@@ -210,7 +217,11 @@ export function registerTools(server: McpServer, client: WatiClient, config: Con
           to: new Date(now + 60_000).toISOString(),
         },
         filters: {
-          ...(a.statuses?.length ? { statuses: a.statuses } : {}),
+          ...(a.statuses?.length
+            ? { statuses: a.statuses }
+            : a.include_solved
+              ? {}
+              : { statuses: [...UNSOLVED_STATUSES] }),
           ...(a.assignment !== "any" ? { assignment: a.assignment } : {}),
           ...(a.waiting_on === "us" ? { reply_state: "awaiting_business" as const } : {}),
           ...(a.waiting_on === "customer" ? { reply_state: "replied" as const } : {}),

@@ -172,6 +172,7 @@ describe("support_inbox", () => {
     expect(res.text).toContain('cursor="CUR"');
     const body = calls[0]!.body as Record<string, any>;
     expect(body.filters).toEqual({
+      statuses: ["new", "open", "pending", "expired", "broadcast", "awaiting_response"],
       assignment: "unassigned",
       reply_state: "awaiting_business",
       min_wait_seconds: 60,
@@ -179,6 +180,14 @@ describe("support_inbox", () => {
     });
     expect(body.page).toEqual({ size: 20 });
     expect(body.context).toEqual({ messages_per_conversation: 3 });
+  });
+
+  it("includes solved only when asked, and respects explicit statuses", async () => {
+    const { call, calls } = await connect({ "POST /api/ext/v3/conversations/query": () => ({ body: { items: [] } }) });
+    await call("support_inbox", { include_solved: true });
+    await call("support_inbox", { statuses: ["solved"] });
+    expect((calls[0]!.body as any).filters.statuses).toBeUndefined();
+    expect((calls[1]!.body as any).filters.statuses).toEqual(["solved"]);
   });
 
   it("retries the read-only query on 429", async () => {

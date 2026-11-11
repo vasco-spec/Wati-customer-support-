@@ -8,7 +8,7 @@ It runs on the Wati REST API (V3) and is meant to be used **together with Wati's
 
 | Tool | What it does | Changes data? |
 |---|---|---|
-| `support_inbox` | Triage queue: conversations waiting on **our** reply, longest wait first, with latest messages, 24h-window state, assignment and tags. Filters: unassigned/assigned, status, unread, window open/expired, text search, tags, minimum wait. | No |
+| `support_inbox` | Triage queue: unsolved conversations waiting on **our** reply, longest wait first (`include_solved: true` to also show solved ones), with latest messages, 24h-window state, assignment and tags. Filters: unassigned/assigned, status, unread, window open/expired, text search, tags, minimum wait. | No |
 | `support_list_conversations` | Simple paged list of recent conversations (works on every plan). | No |
 | `support_get_conversation` | Transcript (oldest → newest), conversation ID, estimated 24h window, and the contact profile when you pass a phone number. | No |
 | `support_get_contact` | Full contact record (attributes, teams, opt-in). | No |
