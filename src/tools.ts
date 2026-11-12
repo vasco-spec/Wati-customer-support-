@@ -2,6 +2,7 @@ import type { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import type { CallToolResult } from "@modelcontextprotocol/sdk/types.js";
 import { z } from "zod";
 import { loadCannedReplies, renderCannedReply } from "./canned.js";
+import { loadKnowledge, searchKnowledge } from "./knowledge.js";
 import type { Config } from "./config.js";
 import {
   formatQueueItem,
@@ -410,6 +411,42 @@ export function registerTools(server: McpServer, client: WatiClient, config: Con
           )
           .join("\n"),
       );
+    }),
+  );
+
+  server.registerTool(
+    "support_search_knowledge",
+    {
+      title: "Search the product knowledge base",
+      description:
+        "Search the team's knowledge base (product overview, FAQ with approved answers, known issues, Loom video " +
+        "library, escalation rules). ALWAYS search before answering a product question, and prefer the documented " +
+        "answer and video links. If nothing relevant is found, do not guess: escalate to the team.",
+      inputSchema: {
+        query: z.string().min(1).describe("Keywords in Portuguese or English, e.g. 'motorista duplicado', 'via verde', 'código sms uber'."),
+        file: z
+          .string()
+          .optional()
+          .describe("Instead of searching, return a whole file, e.g. 'escalation.md' or 'known-issues.md'."),
+        limit: z.number().int().min(1).max(10).default(4),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    safe(async (a) => {
+      const sections = await loadKnowledge(config.knowledgeDir);
+      if (a.file) {
+        const wanted = a.file.endsWith(".md") ? a.file : `${a.file}.md`;
+        const parts = sections.filter((s) => s.file === wanted);
+        if (!parts.length) {
+          return fail(`No knowledge file "${wanted}". Files: ${[...new Set(sections.map((s) => s.file))].join(", ")}`);
+        }
+        return ok(parts.map((s) => s.text).join("\n\n"));
+      }
+      const hits = searchKnowledge(sections, a.query, a.limit);
+      if (!hits.length) {
+        return ok("Nothing in the knowledge base matches. Do not guess: tell the customer the team will check, and escalate.");
+      }
+      return ok(hits.map((h) => `=== ${h.file} › ${h.heading}\n${h.text}`).join("\n\n"));
     }),
   );
 

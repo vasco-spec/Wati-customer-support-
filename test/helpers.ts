@@ -47,6 +47,7 @@ export const baseConfig: Config = {
   replySignature: "",
   cannedRepliesFile: undefined,
   defaultChannel: undefined,
+  knowledgeDir: new URL("../knowledge", import.meta.url).pathname,
   timeoutMs: 5000,
 };
 

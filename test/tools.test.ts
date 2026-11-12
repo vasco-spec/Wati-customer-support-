@@ -23,6 +23,7 @@ describe("tool registration", () => {
         "support_list_canned_replies",
         "support_list_conversations",
         "support_list_templates",
+        "support_search_knowledge",
         "support_reply",
         "support_send_canned_reply",
         "support_send_file",
@@ -377,5 +378,28 @@ describe("errors", () => {
     expect(res.text).toContain("HTTP 401");
     expect(res.text).toContain("WATI_API_TOKEN");
     expect(res.text).not.toContain("secret-token");
+  });
+});
+
+describe("support_search_knowledge", () => {
+  it("finds the documented answer for duplicated drivers (accent-insensitive)", async () => {
+    const { call } = await connect({});
+    const res = await call("support_search_knowledge", { query: "motorista duplicado nomes diferentes uber bolt" });
+    expect(res.isError).toBe(false);
+    expect(res.text).toContain("loom.com/share/9f072c9f6b514d5f846a67abf782529c");
+  });
+
+  it("explains the password-change / SMS case", async () => {
+    const { call } = await connect({});
+    const res = await call("support_search_knowledge", { query: "alterei password uber nao recebo sms" });
+    expect(res.text).toContain("password");
+    expect(res.text.toLowerCase()).toContain("manual");
+  });
+
+  it("returns whole files and handles no matches", async () => {
+    const { call } = await connect({});
+    expect((await call("support_search_knowledge", { query: "x", file: "escalation" })).text).toContain("Always escalate");
+    expect((await call("support_search_knowledge", { query: "zzzqqq" })).text).toContain("Do not guess");
+    expect((await call("support_search_knowledge", { query: "x", file: "nope.md" })).isError).toBe(true);
   });
 });

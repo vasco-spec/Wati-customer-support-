@@ -12,7 +12,8 @@ export function createServer(config: Config, client: WatiClient = new WatiClient
     { name: SERVER_NAME, version: SERVER_VERSION },
     {
       instructions:
-        "Customer-support tools for a Wati (WhatsApp) inbox. Typical flow: support_inbox → support_get_conversation → " +
+        "Customer-support tools for a Wati (WhatsApp) inbox. Before answering any product question, use " +
+        "support_search_knowledge and follow the documented answer and escalation rules. Typical flow: support_inbox → support_get_conversation → " +
         "support_reply / support_send_canned_reply (or support_send_template when the 24h window is closed) → " +
         "support_set_status / support_tag / support_assign. Customer-facing sends return a preview unless confirm: true; " +
         "always show the preview to the user and get approval first." +

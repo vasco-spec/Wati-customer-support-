@@ -4,6 +4,8 @@
  * Secrets (the API token) are only ever read from the environment and are never
  * echoed back in tool output or logs.
  */
+import { fileURLToPath } from "node:url";
+
 export interface Config {
   /** REST API host, e.g. https://live-mt-server.wati.io (no tenant ID, no /api suffix). */
   apiHost: string;
@@ -19,6 +21,8 @@ export interface Config {
   cannedRepliesFile: string | undefined;
   /** Optional default channel (name or phone number) for template sends. */
   defaultChannel: string | undefined;
+  /** Directory with the Markdown knowledge base. */
+  knowledgeDir: string;
   /** HTTP timeout per request in milliseconds. */
   timeoutMs: number;
 }
@@ -78,6 +82,7 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): Config {
     replySignature: env.WATI_REPLY_SIGNATURE ?? "",
     cannedRepliesFile: env.WATI_CANNED_REPLIES_FILE?.trim() || undefined,
     defaultChannel: env.WATI_DEFAULT_CHANNEL?.trim() || undefined,
+    knowledgeDir: env.WATI_KNOWLEDGE_DIR?.trim() || fileURLToPath(new URL("../knowledge", import.meta.url)),
     timeoutMs: Number.isFinite(timeout) && timeout > 0 ? timeout : 30000,
   };
 }

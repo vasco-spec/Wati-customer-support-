@@ -14,6 +14,7 @@ It runs on the Wati REST API (V3) and is meant to be used **together with Wati's
 | `support_get_contact` | Full contact record (attributes, teams, opt-in). | No |
 | `support_list_templates` | Approved templates with their body and parameters. | No |
 | `support_list_canned_replies` | Your team's canned replies and the variables each one needs. | No |
+| `support_search_knowledge` | Searches the product knowledge base in `knowledge/` (FAQ with approved answers, known issues, Loom videos, escalation rules). | No |
 | `support_reply` | Sends a free-form text reply. Checks the 24h window first. | Sends ✉️ |
 | `support_send_canned_reply` | Fills in a canned reply and sends it. | Sends ✉️ |
 | `support_send_file` | Sends an image, PDF or video from a URL, with a caption. | Sends ✉️ |
@@ -90,6 +91,7 @@ To add Wati's official MCP as well, see [docs/official-wati-mcp.md](docs/officia
 | `WATI_REPLY_SIGNATURE` | no | — | Appended to free-form and canned replies. `\n` becomes a new line. |
 | `WATI_CANNED_REPLIES_FILE` | no | — | Path to your canned-replies JSON file. |
 | `WATI_DEFAULT_CHANNEL` | no | — | Channel name or number used for templates. |
+| `WATI_KNOWLEDGE_DIR` | no | `knowledge/` | Folder with the Markdown knowledge base. |
 | `WATI_TIMEOUT_MS` | no | `30000` | Per-request timeout. |
 
 See `.env.example`.
@@ -99,6 +101,10 @@ See `.env.example`.
 - **`fetch failed` behind a corporate/HTTP proxy:** Node's built-in `fetch` ignores `HTTPS_PROXY` by default. On Node ≥ 22.21, add `"NODE_USE_ENV_PROXY": "1"` to the server's `env` (and `NODE_EXTRA_CA_CERTS` if the proxy uses its own CA).
 - **HTTP 401:** the token is expired or revoked, or it belongs to another region. EU tokens only work with `https://eu-api.wati.io`.
 - **HTTP 403 on `support_inbox`:** the conversation query API needs a Growth, Pro or Business plan and the `conversationsv3:read` scope. `support_list_conversations` still works.
+
+## Knowledge base
+
+`knowledge/` holds what Claude knows about the product: an overview, an FAQ with the team's usual answers, known issues, the Loom video library, and escalation rules. Start with [knowledge/README.md](knowledge/README.md). Edit these files to teach Claude, and update `known-issues.md` whenever something breaks.
 
 ## Example requests to Claude
 
