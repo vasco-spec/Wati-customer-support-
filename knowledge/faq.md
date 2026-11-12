@@ -93,6 +93,10 @@ There's no counter for this. In the payments table, click the arrows on the colu
 **Answer:** "Se clicar nas setinhas da coluna, ele ordena do mais baixo para o mais alto, e consegue contar rapidamente os que estão a 0. No fundo da tabela vê o total de motoristas — a diferença são os que estão acima de 0€."
 ⚠️ If customers ask for this often, consider adding a counter (feature request).
 
+### "Os bónus/devoluções/rendas da semana anterior passam para a nova semana" / "Como apago os valores de uma coluna?"
+Values that **don't come from a platform** (bonuses, refunds, rents, insurance, other manual columns) stay in the column until they're cleared. To reset them, the customer clears the column: **click the 3 dots at the top of the column → "Limpar coluna"**. All values in that column are removed. (Confirmed by Vasco, Nov 2026.)
+**Answer:** "Para limpar os valores de bónus, devoluções, rendas, seguros e outros dados que não vêm das plataformas, basta limpar a coluna: no topo da coluna, clique nos 3 pontinhos e escolha a opção 'Limpar coluna'. Todos os valores dessa coluna ficam apagados. Pode fazer isto sempre que iniciar o cálculo de uma nova semana."
+
 ### "Como corrijo/limpo dívidas ou valores negativos?" / "de onde vem esta dívida?"
 **Answer:** "Pode gerir as dívidas manualmente no Mapa de Dívidas — este vídeo explica bem: https://www.loom.com/share/4b80573326ea4fc89eb6e134a4862d6f. Para perceber de onde vem um valor, comece pelo Histórico de Pagamentos do motorista."
 Extra: when a driver ends a week negative, the debt carries over to the next week automatically.
