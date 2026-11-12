@@ -170,7 +170,7 @@ Prices (confirmed by Vasco, Nov 2026):
 | Guia de pagamento de IVA ou Segurança Social | 30€ |
 | Reunião com a contabilista | 30€ |
 | Subscrição recibos verdes | 20€/mês |
-| Subscrição tudo incluído | 30€/mês (**includes opening activity**) |
+| Subscrição tudo incluído | 30€/mês: **recibos verdes + guias de IVA + guias de Segurança Social + abertura de atividade** |
 
 New drivers usually work **in a slot for a fleet operator**. If they don't have a fleet yet, **we can help them find one**.
 
