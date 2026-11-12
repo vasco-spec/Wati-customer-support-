@@ -1,7 +1,7 @@
 {
   "greeting": {
     "title": "Greeting / acknowledgement",
-    "text": "Hi {{name}}! 👋 Thanks for reaching out. I'm looking into this now and will get back to you shortly.",
+    "text": "Hi {{name}}! Thanks for reaching out. I'm looking into this now and will get back to you shortly.",
     "tags": ["general"]
   },
   "order_status_checking": {
@@ -21,7 +21,7 @@
   },
   "closing": {
     "title": "Closing the conversation",
-    "text": "Glad we could help, {{name}}! If anything else comes up, just send us a message here. Have a great day! 😊",
+    "text": "Glad we could help, {{name}}! If anything else comes up, just send us a message here. Have a great day!",
     "tags": ["general"]
   }
 }

@@ -1,6 +1,6 @@
 # FAQ: recurring questions and how we answer
 
-Customer questions are shown in Portuguese, as customers write them. **Answers** are in Portuguese, written the way the team answers: short, friendly, "você" form. ➡️ marks what to do internally.
+Customer questions are shown in Portuguese, as customers write them. **Answers** are in Portuguese, written the way the team answers: short, friendly, "você" form, and no emojis (see escalation.md › Team conventions). ➡️ marks what to do internally.
 
 > Rule: if the answer needs someone to look at the customer's account, change data, or log in to a platform, **don't invent a fix**. Tell the customer the team will look at it, and escalate (see escalation.md).
 
