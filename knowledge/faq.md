@@ -170,13 +170,16 @@ Prices (confirmed by Vasco, Nov 2026):
 | Guia de pagamento de IVA ou Segurança Social | 30€ |
 | Reunião com a contabilista | 30€ |
 | Subscrição recibos verdes | 20€/mês |
-| Subscrição tudo incluído | 30€/mês |
+| Subscrição tudo incluído | 30€/mês (**includes opening activity**) |
+
+New drivers usually work **in a slot for a fleet operator**. If they don't have a fleet yet, **we can help them find one**.
 
 ### "Devo abrir atividade (trabalhador independente) ou ENI?"
 The team's position (Vasco, Nov 2026):
 - The difference is mostly **legal setup**: trabalhador independente (TI) registers with a **CIRS** activity code, ENI with a **CAE** code. ⚠️ Vasco wrote "Ciara"; we read it as CIRS.
 - **Segurança Social:** both are exempt in the **first year**. After that, **TI pays 21,4%** and **ENI pays 25,2%**.
 - **Taxes:** both are exempt below **12.500€** of annual invoicing.
+- If the driver has already committed to **ENI** (e.g. an IEFP "criação do próprio emprego" project submitted as ENI), **ENI is fine**.
 - **Recommendation for a new driver:** open activity as **TI** and see how invoicing goes. If they like the activity and earn well, then consider **opening their own company** and taking on their own drivers in slots.
 
 **Answer:** "A diferença entre trabalhador independente e ENI é sobretudo legal (o trabalhador independente regista-se com um código CIRS e o ENI com um código CAE). Ambos estão isentos de Segurança Social no primeiro ano; depois a taxa é de 21,4% como trabalhador independente e 25,2% como ENI. Em termos de impostos, ambos estão isentos abaixo dos 12.500€ de faturação anual. O mais indicado é abrir atividade como trabalhador independente e ver como corre a faturação. Se gostar da atividade e estiver a faturar bem, aí vale a pena pensar em abrir a sua própria empresa e ter os seus motoristas em slots."
