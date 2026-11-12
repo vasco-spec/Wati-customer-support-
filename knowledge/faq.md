@@ -78,6 +78,12 @@ Usually the integration needs a new login (code) or the data is delayed.
 ### "Como vejo relatórios / pagamentos de semanas passadas?"
 **Answer:** "Basta ir a Cálculo de Pagamentos e selecionar a semana que quer analisar. Este vídeo explica bem: https://www.loom.com/share/f6921e3c20b44f65a680d1c89993509b"
 
+### "Qual o total da Prio / Via Verde / Uber da semana?" / "How to check the overall Prio from last week"
+In Calcular Pagamentos, every column (consumptions like Prio and Via Verde, earnings like Uber and Bolt) shows **the total for the whole fleet at the top of the column**. For a past week, select that week first. (Confirmed by the team, Nov 2026.)
+**Answer (PT):** "Em Calcular Pagamentos, selecione a semana que quer ver. O total de cada coluna — consumos (Prio, Via Verde…) ou ganhos (Uber, Bolt…) — aparece no topo da respetiva coluna."
+**Answer (EN):** "In Calcular Pagamentos, select the week you want. The total for each column — consumptions (Prio, Via Verde…) or earnings (Uber, Bolt…) — is shown at the top of that column."
+Video for opening past weeks: https://www.loom.com/share/f6921e3c20b44f65a680d1c89993509b
+
 ### "Consigo saber quantos motoristas/slots receberam mais de 0€?" / "quantidade de parceiros da semana"
 There's no counter for this. In the payments table, click the arrows on the column header to sort from lowest to highest, then count the ones at 0. The total number of drivers is shown at the bottom of the table, so: total − zeros = above 0.
 **Answer:** "Se clicar nas setinhas da coluna, ele ordena do mais baixo para o mais alto, e consegue contar rapidamente os que estão a 0. No fundo da tabela vê o total de motoristas — a diferença são os que estão acima de 0€."
