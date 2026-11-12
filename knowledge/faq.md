@@ -102,6 +102,10 @@ Usually a **payment was registered in the Mapa de Dívidas in a week when the dr
 ➡️ Check the driver's row in the Mapa de Dívidas for that week. If it's not this, escalate.
 **Answer:** "Na semana de [data] foi registado no Mapa de Dívidas um pagamento de X€ do [motorista], mas ele não tinha nenhuma dívida nessa semana. Por isso o sistema ficou com um crédito de X€ a favor dele e devolveu-lhe esse valor. Se esse pagamento foi registado por engano, basta apagá-lo no Mapa de Dívidas (ícone do caixote no pagamento) e voltar a gerar o relatório. Caso já tenha feito o pagamento, registe isso como dívida e na próxima semana será descontado."
 
+### "Posso imprimir / descarregar em PDF ou Excel a lista de devedores (Mapa de Dívidas)?"
+There's no export button yet. For now, print the page from the browser and save it as PDF. An **Excel download button is in development** (requested from the devs on 12 Nov 2026). ⚠️ Remove this note once the feature ships.
+**Answer:** "De momento ainda não temos essa opção. Para já, pode imprimir a página no browser (Ctrl+P, ou Imprimir no menu do browser) e escolher 'Guardar como PDF'. Estamos a trabalhar num botão para descarregar a lista em Excel."
+
 ### "Como altero o valor a pagar a um motorista (ex: pagar um valor em atraso)?"
 **Answer:** "Este vídeo explica como fazer: https://www.loom.com/share/6dab054e6e394be887118af25db6eb52"
 

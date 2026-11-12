@@ -8,7 +8,7 @@ When the user grants more autonomy, list it here, e.g. "Claude may answer FAQ §
 
 ### Standing rules (granted 12 Nov 2026)
 
-All internal notifications go to Slack **#cs** (`C0AFM0C0MTK`).
+All internal notifications go to Slack **#cs** (`C0AFM0C0MTK`). Feature requests and bugs for the developers go to **#devs** (`C08L9MCGERF`, Raffa `<@U07M880N858>`), when the user asks.
 
 | Situation | What Claude does without asking |
 |---|---|
