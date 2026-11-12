@@ -93,6 +93,11 @@ There's no counter for this. In the payments table, click the arrows on the colu
 **Answer:** "Pode gerir as dívidas manualmente no Mapa de Dívidas — este vídeo explica bem: https://www.loom.com/share/4b80573326ea4fc89eb6e134a4862d6f. Para perceber de onde vem um valor, comece pelo Histórico de Pagamentos do motorista."
 Extra: when a driver ends a week negative, the debt carries over to the next week automatically.
 
+### "Porque é que o sistema devolveu/pagou X€ a um motorista?"
+Usually a **payment was registered in the Mapa de Dívidas in a week when the driver had no debt**. The driver's popup shows "Dívida registada 0,00 €", "Pagamentos X €", "Crédito da semana −X €", so the system treats it as a credit and pays it back to the driver. (Confirmed by Vasco, Nov 2026.)
+➡️ Check the driver's row in the Mapa de Dívidas for that week. If it's not this, escalate.
+**Answer:** "Na semana de [data] foi registado no Mapa de Dívidas um pagamento de X€ do [motorista], mas ele não tinha nenhuma dívida nessa semana. Por isso o sistema ficou com um crédito de X€ a favor dele e devolveu-lhe esse valor. Se esse pagamento foi registado por engano, basta apagá-lo no Mapa de Dívidas (ícone do caixote no pagamento) e voltar a gerar o relatório. Caso já tenha feito o pagamento, registe isso como dívida e na próxima semana será descontado."
+
 ### "Como altero o valor a pagar a um motorista (ex: pagar um valor em atraso)?"
 **Answer:** "Este vídeo explica como fazer: https://www.loom.com/share/6dab054e6e394be887118af25db6eb52"
 
