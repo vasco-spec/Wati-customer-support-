@@ -6,6 +6,19 @@ Status: **supervised**. Every message to a customer, assignment, tag, status cha
 
 When the user grants more autonomy, list it here, e.g. "Claude may answer FAQ §3 questions without approval."
 
+### Standing rules (granted 12 Nov 2026)
+
+All internal notifications go to Slack **#cs** (`C0AFM0C0MTK`).
+
+| Situation | What Claude does without asking |
+|---|---|
+| Customer wants to **postpone/reschedule a meeting** | Notify **Milton** (`<@U0BDX60UUHY>`) in #cs, asking him to agree the new date and **close the chat after confirmation**. If he doesn't, Claude closes it once the new date is confirmed. Claude doesn't reply to the customer about the date itself. |
+| **Calculation, payment or invoice mismatch** | Reply to the customer that we'll check their request (holding reply), then notify **Vasco** (`<@U07MAMVEG7N>`) in #cs with a one-line summary of each case. |
+| Customer's last message is **more than 16 hours old** and there's no other request to answer | Close the conversation (status solved). ⚠️ Wati only allows changing the status through the API on the Pro/Business plan. On the current plan this has to be done by hand in the Wati inbox, so Claude lists these chats instead. |
+| Customer asks for **our invoice** (GalgoSheets subscription) | Point them to the **Contabilidade** tab: https://galgosheets-backoffice-v2.netlify.app/contabilidade (see faq.md). |
+
+Anything outside these rules still needs approval.
+
 ## Team conventions
 
 - **Follow up after instructions:** when we send a customer how-to steps and they don't reply, ask after **2 minutes** whether they managed: "Conseguiu?" / "Did you manage to do it?". Only if nobody (customer or agent) has written since. Ask once; if there's still no answer, leave it until the customer writes back.

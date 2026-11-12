@@ -162,8 +162,9 @@ Typical explanation: IVA included in the total is Total / 1.06. Charging 6% on t
 ### "Têm app para iOS/Android?" (fleet back office)
 **Answer:** "Não temos app, mas a nossa plataforma funciona no browser do telemóvel."
 
-### "Onde está a fatura da mensalidade?"
-**Answer:** "A sua fatura é enviada para o email (e está também disponível na plataforma, em Faturas)."
+### "Onde está a fatura da mensalidade?" / "Preciso da vossa fatura"
+Our invoices (the GalgoSheets subscription) are in the **Contabilidade** tab of the back office. (Rule from the team, Nov 2026.)
+**Answer:** "Pode encontrar as nossas faturas no separador Contabilidade da plataforma: https://galgosheets-backoffice-v2.netlify.app/contabilidade"
 
 ### "Recebi um aviso de cancelamento da subscrição"
 **Answer:** "Não se preocupe, não tem de fazer nada — recebeu um email a informar que mudou a entidade que faz as cobranças."

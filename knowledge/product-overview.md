@@ -70,6 +70,6 @@ After **any change**, refresh the page and **generate the report again**. Report
 
 - Paid by **direct debit via GoCardless**, or by **bank transfer (IBAN)** if the customer can't use direct debit.
 - There's a **free trial**: 7 days was mentioned to one prospect, and 1 month on an older subscription link. ⚠️ Confirm the current offer and prices.
-- Invoices are sent by **email** and are also available under `/faturas`.
+- Invoices are in the **Contabilidade** tab (`/contabilidade`) of the back office.
 - Autumn 2026: the **entity that collects payments changed**. Customers got an email and possibly a "subscription cancellation" notice. **No action is needed from them.**
 - **Cancelling:** the team confirms in the chat that the customer won't be charged again. Refunds go to the customer's IBAN through the finance department.
