@@ -153,6 +153,26 @@ Typical explanation: IVA included in the total is Total / 1.06. Charging 6% on t
 **Answer:** "Se tem de receber 100€, passa o recibo de 100€ + 23% de IVA, e a empresa paga-lhe 123€. Esses 23€ são IVA que depois entrega ao Estado (e a empresa deduz). Um recibo por semana ou por mês depende do que combinar com a sua empresa."
 ⚠️ Confirm the IVA regime wording with the accountant before using this.
 
+### "Quanto custam os serviços de contabilidade para motoristas?" / "Pack de 30€"
+Prices (confirmed by Vasco, Nov 2026):
+
+| Service | Price |
+|---|---|
+| Abertura de atividade | 30€ |
+| Guia de pagamento de IVA ou Segurança Social | 30€ |
+| Reunião com a contabilista | 30€ |
+| Subscrição recibos verdes | 20€/mês |
+| Subscrição tudo incluído | 30€/mês |
+
+### "Devo abrir atividade (trabalhador independente) ou ENI?"
+The team's position (Vasco, Nov 2026):
+- The difference is mostly **legal setup**: trabalhador independente (TI) registers with a **CIRS** activity code, ENI with a **CAE** code. ⚠️ Vasco wrote "Ciara"; we read it as CIRS.
+- **Segurança Social:** both are exempt in the **first year**. After that, **TI pays 21,4%** and **ENI pays 25,2%**.
+- **Taxes:** both are exempt below **12.500€** of annual invoicing.
+- **Recommendation for a new driver:** open activity as **TI** and see how invoicing goes. If they like the activity and earn well, then consider **opening their own company** and taking on their own drivers in slots.
+
+**Answer:** "A diferença entre trabalhador independente e ENI é sobretudo legal (o trabalhador independente regista-se com um código CIRS e o ENI com um código CAE). Ambos estão isentos de Segurança Social no primeiro ano; depois a taxa é de 21,4% como trabalhador independente e 25,2% como ENI. Em termos de impostos, ambos estão isentos abaixo dos 12.500€ de faturação anual. O mais indicado é abrir atividade como trabalhador independente e ver como corre a faturação. Se gostar da atividade e estiver a faturar bem, aí vale a pena pensar em abrir a sua própria empresa e ter os seus motoristas em slots."
+
 ### Booking the accountant
 ➡️ Offer a virtual meeting, propose a time, and **escalate to schedule it**. Don't confirm a time on the accountant's behalf.
 

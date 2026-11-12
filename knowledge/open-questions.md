@@ -12,7 +12,7 @@ Please answer these inline, or just tell Claude, and it will update the knowledg
 ## Prices and billing
 
 5. What are the current subscription prices (per vehicle? per driver? tiers?) and the trial length (7 days or 1 month)?
-6. What are the prices for accounting services for drivers and fleets?
+6. ~~Prices for drivers' accounting services~~ (answered, see faq.md §6). Fleet accounting prices are still open.
 7. Who handles refunds and failed direct debits (the "financial department")?
 
 ## Process
