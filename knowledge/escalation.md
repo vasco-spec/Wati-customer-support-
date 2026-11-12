@@ -22,7 +22,7 @@ Anything outside these rules still needs approval.
 ## Team conventions
 
 - **Follow up after instructions:** when we send a customer how-to steps and they don't reply, ask after **2 minutes** whether they managed: "Conseguiu?" / "Did you manage to do it?". Only if nobody (customer or agent) has written since. Ask once; if there's still no answer, leave it until the customer writes back.
-- **Ignore replies to campaigns.** Broadcasts starting with **❗❗NOVIDADE❗❗** are product-news campaigns. Customer replies to them ("Maravilha", "?", "ok"…) don't need an answer, so leave them out of the pending list. A campaign broadcast is not a reply from us either: any question the customer asked *before* the campaign is still pending.
+- **Ignore replies to campaigns.** Broadcasts starting with **❗❗NOVIDADE❗❗** are product-news campaigns. Customer replies to them ("Maravilha", "?", "ok"…) don't need an answer, so leave them out of the pending list. Only short messages sent shortly after the campaign (within ~2h) count as replies. A later or longer message on another topic is a real request (e.g. Camila asked about invoices 6h after a campaign). A campaign broadcast is not a reply from us either: any question the customer asked *before* the campaign is still pending.
 - **Checking the inbox:** list the customers pending an answer, with the type of question for each, and when their 24h window closes.
 - **No emojis in customer messages.** The only exception: when a customer thanks us for our help, a friendly emoji in the reply is fine (e.g. "Ora essa! 👍").
 - **Step-by-step for confused customers:** if the customer doesn't understand, resend the instructions as short numbered steps in simple language, referring to any screenshot the team already sent.
