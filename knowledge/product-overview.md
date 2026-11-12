@@ -19,7 +19,7 @@ Customers write in Portuguese (PT and BR), English (often drivers from South Asi
 
 - **New back office:** `galgosheets-backoffice-v2.netlify.app` (e.g. `/calcular-pagamentos`, `/platforms`, `/faturas`). It works in a phone browser. There's **no native iOS/Android app for the back office**.
 - **History of past weeks:** "Cálculo de Pagamentos" → choose the week (the older `app-galgosheets.netlify.app/history` page is also used).
-- **Driver app** (accounting): `galgosheets-drivers.netlify.app`. Drivers request recibos verdes and IVA / Segurança Social payment slips there.
+- **Driver app** (accounting): `galgosheets-drivers.netlify.app` (confirmed). Drivers request recibos verdes and IVA / Segurança Social payment slips there.
 - **Vehicle inspections / autos app:** fleets register vehicle handovers and pickups and inspections. ⚠️ Confirm the name and URL.
 
 ## Integrations (data imported automatically)

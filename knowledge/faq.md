@@ -174,6 +174,9 @@ Prices (confirmed by Vasco, Nov 2026):
 
 New drivers usually work **in a slot for a fleet operator**. If they don't have a fleet yet, **we can help them find one**.
 
+- **App:** drivers request recibos verdes and the IVA / Segurança Social slips in the driver app: https://galgosheets-drivers.netlify.app (confirmed by Vasco, Nov 2026). Questions can also come through WhatsApp.
+- **What operators charge** (for drivers asking whether a deal is fair): **10% of invoicing, all included** is a common deal. Some operators charge a **flat 25€ + IVA** instead. ⚠️ Confirm the period (per week?).
+
 ### "Devo abrir atividade (trabalhador independente) ou ENI?"
 The team's position (Vasco, Nov 2026):
 - The difference is mostly **legal setup**: trabalhador independente (TI) registers with a **CIRS** activity code, ENI with a **CAE** code. ⚠️ Vasco wrote "Ciara"; we read it as CIRS.
