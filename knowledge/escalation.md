@@ -23,6 +23,8 @@ Anything outside these rules still needs approval.
 
 - **Follow up after instructions:** when we send a customer how-to steps and they don't reply, ask after **2 minutes** whether they managed: "Conseguiu?" / "Did you manage to do it?". Only if nobody (customer or agent) has written since. Ask once; if there's still no answer, leave it until the customer writes back.
 - **Ignore replies to campaigns.** Broadcasts starting with **❗❗NOVIDADE❗❗** are product-news campaigns. Customer replies to them ("Maravilha", "?", "ok"…) don't need an answer, so leave them out of the pending list. Only short messages sent shortly after the campaign (within ~2h) count as replies. A later or longer message on another topic is a real request (e.g. Camila asked about invoices 6h after a campaign). A campaign broadcast is not a reply from us either: any question the customer asked *before* the campaign is still pending.
+- **"Assigned" is not "handled".** If the customer wrote last and no person has replied (bot auto-replies don't count), the conversation is pending, whoever it's assigned to. Read the **full** message, then suggest a reply or escalation every time.
+- **Product questions about vehicle management** go to Raffa: feature suggestions in **#devs**, support questions in **#cs**.
 - **Checking the inbox:** list the customers pending an answer, with the type of question for each, and when their 24h window closes. Check **every open conversation**, not just the ones Wati marks as "awaiting reply": the out-of-office **bot's automatic reply doesn't count as an answer**, but Wati marks those chats as "replied".
 - **Quiet hours: no replies after 21:00** (Lisbon time). After 21:00, only reply to a customer who has written to us **after 21:00 that same evening**. Otherwise wait until the morning. This applies to holding replies under the standing rules too.
 - **Don't message a customer whose conversation is already closed** just to confirm something (e.g. a payment). Only reply if they write again.
@@ -36,7 +38,7 @@ Anything outside these rules still needs approval.
 | Person | Typically handles |
 |---|---|
 | **Vasco** | Most fleet questions; calculations and configuration (IVA, slot, commission); accounting questions; commercial topics (cancellations, partnerships, buying/selling companies); integrations with new partners |
-| **Raffa (Raffael)** | Technical fixes: imports not updating, requesting platform codes, report corrections, account access; "resolved by phone" cases |
+| **Raffa (Raffael)** | **Owner of everything about vehicle management** (Veículos e Cartões, handovers/pickups, inspections, unassigned cars) (confirmed by Vasco, Nov 2026). Also technical fixes: imports not updating, requesting platform codes, report corrections, account access; "resolved by phone" cases |
 | **Milton** | Sales and onboarding: demos, scheduling calls and accountant meetings, subscription links, IBAN for transfers |
 | **Gonçalo** | Accounting / payment questions (recent) |
 

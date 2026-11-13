@@ -63,6 +63,10 @@ Yes. Vehicles are **added automatically** when they appear in Via Verde **and th
 ### "Como excluo/apago um motorista que já não trabalha comigo?"
 **Answer:** "Basta excluir da lista de motoristas. Este vídeo explica bem: https://www.loom.com/share/e3b1a53ee9554307b9756a6bee32fee6"
 
+### "Carros sem motorista (oficina/parque): como ficam os movimentos?" / "Posso atribuir vários carros ao mesmo motorista?"
+**Not possible for now.** A driver can only have one vehicle assigned, and there's no "oficina/parque" status for unassigned cars. Movements (Via Verde, etc.) of unassigned cars have to be entered manually. A customer suggestion to support this was passed to the devs on 13 Nov 2026. (Confirmed by Vasco.)
+**Answer:** "De momento isso ainda não é possível: cada motorista só pode ter uma viatura atribuída, por isso os movimentos das viaturas paradas (oficina/parque) têm de ser lançados manualmente, como já está a fazer. Obrigado pela sugestão, já a passámos à nossa equipa de desenvolvimento."
+
 ### "Como adiciono um motorista?"
 **Answer:** "Tem aqui o vídeo: https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c"
 
