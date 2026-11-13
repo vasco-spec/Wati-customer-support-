@@ -21,7 +21,10 @@ Anything outside these rules still needs approval.
 
 ## Team conventions
 
-- **Follow up after instructions:** when we send a customer how-to steps and they don't reply, ask after **2 minutes** whether they managed: "Conseguiu?" / "Did you manage to do it?". Only if nobody (customer or agent) has written since. Ask once; if there's still no answer, leave it until the customer writes back.
+- **Follow up after instructions:** when we send a customer how-to steps and they don't reply, ask once whether they managed: "Conseguiu?" / "Did you manage to do it?". The timing depends on whether they're actively chatting:
+  - **Active conversation** (the customer's last message was **less than 1 hour** before our instructions): ask after **2 minutes**.
+  - **Not active** (we're answering a message that waited **more than 1 hour**, e.g. a reply sent the next morning): ask after **1 hour**.
+  Only ask if nobody (customer or agent) has written since. Ask once; if there's still no answer, leave it until the customer writes back. Quiet hours (after 21:00) apply to the follow-up too.
 - **Ignore replies to campaigns.** Broadcasts starting with **❗❗NOVIDADE❗❗** are product-news campaigns. Customer replies to them ("Maravilha", "?", "ok"…) don't need an answer, so leave them out of the pending list. Only short messages sent shortly after the campaign (within ~2h) count as replies. A later or longer message on another topic is a real request (e.g. Camila asked about invoices 6h after a campaign). A campaign broadcast is not a reply from us either: any question the customer asked *before* the campaign is still pending.
 - **"Assigned" is not "handled".** If the customer wrote last and no person has replied (bot auto-replies don't count), the conversation is pending, whoever it's assigned to. Read the **full** message, then suggest a reply or escalation every time.
 - **Product questions about vehicle management** go to Raffa: feature suggestions in **#devs**, support questions in **#cs**.
