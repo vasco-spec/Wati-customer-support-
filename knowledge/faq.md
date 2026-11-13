@@ -47,6 +47,10 @@ Usually the integration needs a new login (code) or the data is delayed.
 Yes. Vehicles are **added automatically** when they appear in Via Verde **and there are charges on that plate**. No setup is needed. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Não precisa de fazer nada. Os veículos são adicionados automaticamente assim que aparecem na Via Verde e há cobranças na respetiva matrícula."
 
+### "A matrícula é associada ao motorista automaticamente?"
+**No.** Associating plates to drivers is part of **payments** (not vehicle management) and is done **manually in Veículos e Cartões, under the Calcular Pagamentos tab**. (Confirmed by Vasco, Nov 2026.)
+**Answer:** "Não, a matrícula não é associada automaticamente ao motorista. Isso é feito manualmente em Veículos e Cartões, no separador Calcular Pagamentos."
+
 ### "A Prio gasóleo só aparece até dia X"
 **Answer:** "O sistema mostra a data do último abastecimento — se não houve abastecimentos depois disso, é normal."
 
@@ -194,6 +198,10 @@ The team's position (Vasco, Nov 2026):
 - **Recommendation for a new driver:** open activity as **TI** and see how invoicing goes. If they like the activity and earn well, then consider **opening their own company** and taking on their own drivers in slots.
 
 **Answer:** "A diferença entre trabalhador independente e ENI é sobretudo legal (o trabalhador independente regista-se com um código CIRS e o ENI com um código CAE). Ambos estão isentos de Segurança Social no primeiro ano; depois a taxa é de 21,4% como trabalhador independente e 25,2% como ENI. Em termos de impostos, ambos estão isentos abaixo dos 12.500€ de faturação anual. O mais indicado é abrir atividade como trabalhador independente e ver como corre a faturação. Se gostar da atividade e estiver a faturar bem, aí vale a pena pensar em abrir a sua própria empresa e ter os seus motoristas em slots."
+
+### A fleet asks us to sort out accounting for one of their drivers (receipts, opening activity)
+The **driver has to contact us directly**, and we take care of everything for them. It costs the driver **30€** (opening activity). (Confirmed by Vasco, Nov 2026.)
+**Answer:** "Para isso o/a [motorista] precisa de entrar em contacto connosco e nós tratamos de tudo por ele/ela. O serviço tem um custo de 30€."
 
 ### Booking the accountant
 ➡️ Offer a virtual meeting, propose a time, and **escalate to schedule it**. Don't confirm a time on the accountant's behalf.
