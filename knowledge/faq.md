@@ -43,6 +43,10 @@ Usually the integration needs a new login (code) or the data is delayed.
 ### "A Via Verde não bate certo" / "o valor debitado é diferente"
 **Answer:** "A Via Verde nunca bate certo a 100% com a semana, porque o período de cobrança da Via Verde está sempre atrasado e há valores já cobrados anteriormente. Não fica a perder — os valores são cobrados ao motorista quando entram no extrato."
 
+### "Como adiciono uma nova plataforma?" (Via Verde, Prio, Bolt…)
+**Answer** (the team's quick reply, Nov 2026): "Para adicionar uma nova plataforma basta ir a Plataformas (https://galgosheets-backoffice-v2.netlify.app/platforms) e, no canto superior direito, clicar em 'Adicionar Plataformas'. Lá pode ver as plataformas que suportamos. Caso haja alguma que precise que nós suportemos é só dizer."
+For a platform without integration, see video-library.md (upload Excel/CSV).
+
 ### "A Via Verde é ativada automaticamente para cada novo veículo?"
 Yes. Vehicles are **added automatically** when they appear in Via Verde **and there are charges on that plate**. No setup is needed. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Não precisa de fazer nada. Os veículos são adicionados automaticamente assim que aparecem na Via Verde e há cobranças na respetiva matrícula."
