@@ -124,6 +124,10 @@ There's no export button yet. For now, print the page from the browser and save 
 ### "Como funcionam as cauções?" / "abater caução"
 **Answer:** "Este vídeo explica bem: https://www.loom.com/share/d7435feb0a994958a320900e37d80f6a (e para abater/alterar: https://www.loom.com/share/6b64dd7dfdea4e3da3a0a203c9e2e6d3)"
 
+### "Quero registar uma dívida que começa numa data futura" (e.g. from 23/11)
+The Mapa de Dívidas only shows existing weeks. For a debt or charge starting in a **future week**, use the **Mapa de Parcelamentos**. (Confirmed by Vasco, Nov 2026.)
+**Answer:** "Para registar uma dívida que começa numa data futura, use o Mapa de Parcelamentos em vez do Mapa de Dívidas. Estes vídeos explicam bem: 1. Como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 2. Como editar os parcelamentos manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
+
 ### "Como faço parcelamentos?"
 **Answer:** "Para perceber como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 — e para editar manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
 
