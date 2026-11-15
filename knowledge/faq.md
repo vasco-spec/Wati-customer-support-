@@ -211,6 +211,11 @@ The team's position (Vasco, Nov 2026):
 The **driver has to contact us directly**, and we take care of everything for them. It costs the driver **30€** (opening activity). (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Para isso o/a [motorista] precisa de entrar em contacto connosco e nós tratamos de tudo por ele/ela. O serviço tem um custo de 30€."
 
+### "Tenho de carregar os recibos verdes também?" / uploading invoices for accounting
+Yes: accounting clients upload their **expense invoices and green receipts** in the **Contabilidade → Faturas** tab. **Drivers can upload their own green receipts by replying to the WhatsApp message they receive from GalgoSheets.** (Confirmed by Vasco, Nov 2026.)
+➡️ **Upload errors** ("Não foi possível carregar", missing invoices after uploading): ping **Raffa in #cs**.
+**Answer (EN):** "Yes, please upload the green receipts too. For the future, your drivers can upload their green receipts themselves, just by replying to the WhatsApp message they receive from GalgoSheets."
+
 ### Booking the accountant
 ➡️ Offer a virtual meeting, propose a time, and **escalate to schedule it**. Don't confirm a time on the accountant's behalf.
 
