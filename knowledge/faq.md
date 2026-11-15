@@ -81,6 +81,9 @@ Yes. Vehicles are **added automatically** when they appear in Via Verde **and th
 ### "O motorista não recebe o relatório no WhatsApp"
 **Answer:** "O motorista tem de nos enviar uma mensagem para este número (é uma regra do WhatsApp). Se mesmo assim não receber, peça-lhe para desinstalar e voltar a instalar o WhatsApp." ➡️ If it still fails, escalate with the driver's number.
 
+### "Como automatizo a criação de contratos?" / "não consigo pôr os dados dos motoristas e carros nos contratos"
+**Answer** (the team's quick reply, Nov 2026): "Se quiser saber como automatizar a criação de contratos, tem aqui este vídeo que explica bem: https://www.loom.com/share/24745886536947268e386828879eb140"
+
 ### "Onde mudo o telefone para onde vão os relatórios?"
 **Answer:** "Diretamente no separador Relatórios."
 

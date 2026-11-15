@@ -35,7 +35,7 @@ These are the videos the team already sends to customers, collected from WhatsAp
 | Car handover (entrega) | https://www.loom.com/share/f802fde8df594d8cb2cac4fd0ddc0fc1 | 1× |
 | Car pickup (recolha) | https://www.loom.com/share/a87303f7345247cead07bc1c6eb7e333 | 1× |
 | Splitting charges when a car changes driver mid-week ⚠️ | https://www.loom.com/share/7171b7e1ba0c47d68135aafa8f8561ce | 2× |
-| Create contracts | https://www.loom.com/share/24745886536947268e386828879eb140 | 1× |
+| Create contracts / automate contract creation (team quick reply) | https://www.loom.com/share/24745886536947268e386828879eb140 | 1× |
 
 ## Payments, debts, deposits
 
