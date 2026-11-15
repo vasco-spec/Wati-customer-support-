@@ -216,6 +216,10 @@ Yes: accounting clients upload their **expense invoices and green receipts** in 
 ➡️ **Upload errors** ("Não foi possível carregar", missing invoices after uploading): ping **Raffa in #cs**.
 **Answer (EN):** "Yes, please upload the green receipts too. For the future, your drivers can upload their green receipts themselves, just by replying to the WhatsApp message they receive from GalgoSheets."
 
+### "Têm alguma demo de como funcionam os serviços?" (drivers)
+Send the **driver app link** and say a **salesperson will get in touch** to arrange a **virtual meeting (Google Meet)**. ➡️ Ping **Milton** in #cs to call the driver. (Confirmed by Vasco, Nov 2026.)
+**Answer:** "Pode ver como funciona na nossa aplicação: https://galgosheets-drivers.netlify.app — Também podemos fazer uma reunião virtual, pelo Google Meet, para lhe mostrar os serviços. Um dos nossos comerciais vai entrar em contacto consigo."
+
 ### Booking the accountant
 ➡️ Offer a virtual meeting, propose a time, and **escalate to schedule it**. Don't confirm a time on the accountant's behalf.
 
