@@ -35,7 +35,7 @@ Anything outside these rules still needs approval.
 - **When the team answers a case, relay it to the customer straight away** (in "we" form, no names, no promises they didn't make). Don't wait for another approval: the team's answer is the approval (Vasco, 16 Nov 2026).
 - **Jira tickets:** when creating a Jira ticket for someone, **don't announce it in #cs**. #cs is only for customer support (Raffa's request, 16 Nov 2026). Only post in #cs about the customer case itself (e.g. the customer is waiting).
 - **Format of every #cs escalation thread** (Vasco, 16 Nov 2026): tag the person, include the Jira ticket link **only for bugs/technical fixes** (create it in SCRUM, assigned to them; simple questions need no ticket), then:
-  - **Wati Chat:** link to the Wati conversation
+  - **Wati Chat:** link to the Wati conversation: `https://eu.wati.io/1111622/teamInbox/<conversation id>` (the id is the conversation id from the API)
   - **Cliente:** company name
   - **Descrição:** very short description of the problem
 
