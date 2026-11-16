@@ -34,6 +34,12 @@ Anything outside these rules still needs approval.
 - **Only ping the team when it's needed:** if the answer is in the knowledge base or in a Wati quick reply, just answer the customer. Ping someone only for questions or requests Claude can't solve (bugs, account changes, decisions, missing information).
 - **When the team answers a case, relay it to the customer straight away** (in "we" form, no names, no promises they didn't make). Don't wait for another approval: the team's answer is the approval (Vasco, 16 Nov 2026).
 - **Jira tickets:** when creating a Jira ticket for someone, **don't announce it in #cs**. #cs is only for customer support (Raffa's request, 16 Nov 2026). Only post in #cs about the customer case itself (e.g. the customer is waiting).
+- **Format of every #cs escalation thread** (Vasco, 16 Nov 2026): tag the person, include the ticket, then:
+  - **Wati Chat:** link to the Wati conversation
+  - **Cliente:** company name
+  - **Descrição:** very short description of the problem
+
+  **Follow-up:** if there's no answer within **10 minutes**, tag them again in the same thread, and keep doing so every 10 minutes until they say it's solved or the Wati conversation shows it's fully solved.
 - **One Slack message per case:** put everything (details, priority, extra questions) in a single message. Don't send several in a row (Raffa, 16 Nov 2026). If something new comes up later, one new message is fine.
 - **Tone with the team on Slack:** polite and soft, never orders. Say e.g. "Prioriza o Maurício sff, ele já está ali há algum tempo à espera", not "responde já…" (Vasco, 16 Nov 2026).
 - **Checking Slack:** read **all new messages in #cs** since the last check (the team often answers with a new message, not in the thread), plus replies in our threads. Never send a reminder before checking.
