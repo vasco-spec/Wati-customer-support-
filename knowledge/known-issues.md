@@ -27,6 +27,7 @@
 | Can't make payments | Revolut/bank authorisation expired | Escalate |
 | Prio diesel date is old | It shows the last refuel date | Expected |
 | "Dados não disponíveis" warning | No charges that week on that source | Check before escalating |
+| Warning in Calcular Pagamentos: "Detetámos colunas no cálculo que podem não estar a ser consideradas no pagamento final" (e.g. **Dívida**) | A column (like Dívida) isn't included in the total formula, so the report shows it but doesn't deduct it | The team fixes the formula and generates the report again. Tell the customer it's fixed and the new report is ready. If the warning was there in an earlier week with nothing in that column, there was no impact (Marcelo Cunha, 16 Nov 2026) |
 | Several people editing the same fleet at once | Can cause odd values ⚠️ | Escalate with the driver's name and week |
 
 ## Bugs fixed recently (for context)
