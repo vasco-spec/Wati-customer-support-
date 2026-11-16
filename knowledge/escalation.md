@@ -50,7 +50,7 @@ Anything outside these rules still needs approval.
 |---|---|
 | **Vasco** | Most fleet questions; calculations and configuration (IVA, slot, commission); accounting questions; commercial topics (cancellations, partnerships, buying/selling companies); integrations with new partners |
 | **Raffa (Raffael)** | **Owner of everything about vehicle management** (handovers/pickups, inspections, unassigned cars). **Exception:** associating plates/cards to drivers in Veículos e Cartões is part of **payments**, not vehicle management (confirmed by Vasco, Nov 2026). Also the manual adjustment for **drivers with earnings in more than one company** of the same customer (pass him the driver names, high priority on payment day; Mauricio, 16 Nov 2026). Also technical fixes: imports not updating, requesting platform codes, report corrections, account access; "resolved by phone" cases |
-| **Milton** | Sales and onboarding: demos, scheduling calls and accountant meetings, subscription links, IBAN for transfers |
+| **Milton** | Sales and onboarding (**product/how-to calls with existing customers are with Vasco**, confirmed 16 Nov 2026): demos, scheduling calls and accountant meetings, subscription links, IBAN for transfers |
 | **Gonçalo** | Accounting / payment questions (recent) |
 
 Slack: Raffa is `@Raffael Perrutte`. ⚠️ Confirm each person's Wati operator email, so conversations get assigned to the right person.
