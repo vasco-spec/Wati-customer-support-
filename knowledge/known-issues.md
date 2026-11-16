@@ -16,7 +16,8 @@
 
 | Situation | Why it happens | What to do |
 |---|---|---|
-| Uber/Bolt/Prio data not imported on Monday | Platform login expired, or needs a verification code | Escalate. The team requests the code and the customer forwards it |
+| **Uber data not available yet on Monday morning** (e.g. "a leitura da Uber está com erro") | The weekly Uber import is still running | Tell them to wait and keep refreshing the page; it should be ready **before 10:00**. Draft: "Quando os dados da Uber ainda não estão disponíveis, basta aguardar e ir atualizando a página. Deverão ficar disponíveis antes das 10h." Escalate only if it's still missing after 10:00 (confirmed by Vasco, 16 Nov 2026) |
+| Uber/Bolt/Prio data still not imported after 10:00 on Monday | Platform login expired, or needs a verification code | Escalate. The team requests the code and the customer forwards it |
 | Sync stops after the customer **changes a password** | We log in with the old credentials | Escalate. Manual re-connection with the new password and an SMS code |
 | Uber SMS code doesn't arrive | Uber SMS can be very slow | Reassure them: it usually arrives. If it expires, the team requests another |
 | Via Verde differs from the week | Via Verde billing lags; some amounts were already charged | Explain (see FAQ). Not a loss for the fleet |
