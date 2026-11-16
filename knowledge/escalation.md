@@ -56,6 +56,7 @@ Anything outside these rules still needs approval.
 - **Questions about a GoCardless debit ("DDGOCARLESS GALGOSHEETS…"):** check the internal billing spreadsheet (Vasco has the link): tab **Clients** (subscription ID, first payment date), **invoices_new** (invoice dates and amounts per fiscal ID) and **Monthly Check** (this month's GoCardless status and amount). Semestral plans are 6 months × monthly price − 20% + IVA.
 - **No generic answers when information is missing.** Instead of "vamos verificar e já lhe dizemos alguma coisa", ask for exactly what we need (which driver, which week, which installments, from whom to whom, the correct value…). Use a holding reply only once we have the details.
 - **Moving a debt/installments from one driver to another:** normally not possible, but we try to help. First ask which installments, from which driver to which driver (confirmed by Vasco, 16 Nov 2026).
+- **Customer disputes who made a change** (e.g. "nobody on my team added that manual value"): don't argue about blame. Acknowledge the worry, state what the record shows ("ficou registado como lançamento manual") rather than "you did it", move to the fix (offer to correct the value), say we'll check the origin with the tech team, and offer a call. Ask Raffa to check the history (confirmed by Vasco, 16 Nov 2026).
 - **Step-by-step for confused customers:** if the customer doesn't understand, resend the instructions as short numbered steps in simple language, referring to any screenshot the team already sent.
 
 ## Who handles what
