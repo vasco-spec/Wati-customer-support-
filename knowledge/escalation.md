@@ -37,7 +37,8 @@ Anything outside these rules still needs approval.
 - **Format of every #cs escalation thread** (Vasco, 16 Nov 2026): tag the person, include the Jira ticket link **only for bugs/technical fixes** (create it in SCRUM, assigned to them; simple questions need no ticket), then:
   - **Wati Chat:** link to the Wati conversation: `https://eu.wati.io/1111622/teamInbox/<conversation id>` (the id is the conversation id from the API)
   - **Cliente:** company name
-  - **Descrição:** very short description of the problem
+  - **Descrição:** one line, about 10–15 words, essentials only (driver/plate, the amount, what we need). No background or what we told the customer unless essential (Vasco, 16 Nov 2026). Example: "Caução Gurpreet: lançamento manual 270,60€ que o cliente não reconhece. Ver histórico e reverter."
+  - Follow-ups in the thread: one short line too.
 
   **Follow-up:** if there's no answer within **10 minutes**, tag them again in the same thread, and keep doing so every 10 minutes until they say it's solved or the Wati conversation shows it's fully solved.
 - **One Slack message per case:** put everything (details, priority, extra questions) in a single message. Don't send several in a row (Raffa, 16 Nov 2026). If something new comes up later, one new message is fine.
