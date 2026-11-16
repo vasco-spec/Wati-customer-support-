@@ -54,6 +54,7 @@ If a driver keeps coming back after being removed, it's because **he still has e
 ### "Os carregamentos/combustível dos motoristas são calculados com ou sem IVA?"
 It's a **configuration of each customer's account**: charging/fuel can be calculated with or without IVA, as set up for them. Answer: "Isso é uma configuração da sua conta: os carregamentos podem ser calculados com ou sem IVA, conforme estiver definido. Se quiser confirmar ou alterar, diga-nos." Changing it is a configuration change → Vasco. (confirmed by Vasco, 16 Nov 2026)
 The account setting is **"Como cobrar o 6% de IVA das plataformas"**, with these options: *Não cobrar*; *IVA indicado pelas plataformas* (the real amounts the platforms show); or a common operator method: *Ganhos Brutos* (1060 − 1060/1.06), *Ganhos Brutos excl. gorjetas e portagens*, *Ganhos Líquidos* (× 6%), *Ganhos Líquidos excl. gorjetas e portagens*. Check which one the customer has before answering.
+**Where to change it (the customer can do it):** https://galgosheets-backoffice-v2.netlify.app/calcular-pagamentos/configuracoes → tab **"Cálculo de Pagamentos"** → choose the VAT option → save, refresh and generate the report again.
 
 ### "Ao começar a nova semana, os novos motoristas não entram automaticamente?"
 Two different cases, so first ask which one the customer means:
