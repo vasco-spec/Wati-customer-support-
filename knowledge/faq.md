@@ -43,21 +43,21 @@ In **Plataformas**, these platforms show "Upload manual" with an upload button a
 If the fleet had **no trips** on that platform that week, it's normal for it to show as not synchronised. **Answer:** "Teve viagens na POP esta semana? Se não teve, é normal aparecer como não sincronizada." (Vasco, 16 Nov 2026)
 
 ### "Um motorista fez parte da semana a slot e parte a comissão (carros diferentes)"
-Ask whether it will happen often. If not: do it **manually this week**, and from next week keep that driver on **only one** model (commission or slot). Draft: "Isto é algo que vai acontecer com frequência? Se não, esta semana pode fazer manualmente e, a partir da próxima semana, mantenha para esse motorista só comissão ou só slot." (Diogo, 16 Nov 2026)
+Ask whether it will happen often. If not: do it **manually this week**, and from next week keep that driver on **only one** model (commission or slot). Draft: "Isto é algo que vai acontecer com frequência? Se não, esta semana pode fazer manualmente e, a partir da próxima semana, mantenha para esse motorista só comissão ou só slot." (confirmed by Vasco, 16 Nov 2026)
 
 ### "Podem enviar esta mensagem a todos os meus motoristas?" (fleet notices, e.g. new prices, bonuses)
-Yes, we can send it, but we charge the cost of the extra WhatsApp messages: only what WhatsApp (Meta) charges us. Current Meta rate for Portuguese numbers: **marketing message €0.049 per delivered message**. Give an example of the total and ask the customer to confirm before sending. (Vasco, 16 Nov 2026, Tomás)
+Yes, we can send it, but we charge the cost of the extra WhatsApp messages: only what WhatsApp (Meta) charges us. Current Meta rate for Portuguese numbers: **marketing message €0.049 per delivered message**. Give an example of the total and ask the customer to confirm before sending. (Vasco, 16 Nov 2026)
 
 ### "Removo um motorista e ele volta a aparecer"
-If a driver keeps coming back after being removed, it's because **he still has earnings that week**. Even if he didn't work, **any adjustment** that week (Uber/Bolt) stops the system from deleting him. Once he has no more transactions, he can be removed. (Vasco, 16 Nov 2026, Michael)
+If a driver keeps coming back after being removed, it's because **he still has earnings that week**. Even if he didn't work, **any adjustment** that week (Uber/Bolt) stops the system from deleting him. Once he has no more transactions, he can be removed. (Vasco, 16 Nov 2026)
 
 ### "Ao começar a nova semana, os novos motoristas não entram automaticamente?"
 Two different cases, so first ask which one the customer means:
 - **Opening the system on Monday** (normal weekly import): it should fetch **all new drivers from Uber and Bolt**. If one is missing, check whether they worked last week / Uber is synced, then escalate.
-- **"Preparar nova semana"**: the system only fetches **new drivers from Bolt**, not from Uber. New Uber drivers have to be added manually (video: https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c). (Vasco, 16 Nov 2026, Soraia)
+- **"Preparar nova semana"**: the system only fetches **new drivers from Bolt**, not from Uber. New Uber drivers have to be added manually (video: https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c). (Vasco, 16 Nov 2026)
 
 ### "Adicionei um motorista novo e não aparece" / "new driver not showing"
-**Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (Sachin, 16 Nov 2026)
+**Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (confirmed by Vasco, 16 Nov 2026)
 
 ### "A Uber/Bolt/Prio ainda não atualizou" / "valores a zero"
 First check the platform status boxes (above): on Monday morning a yellow box usually just means wait and refresh. Otherwise the integration needs a new login (code) or the data is delayed.
@@ -165,7 +165,7 @@ The Mapa de Dívidas only shows existing weeks. For a debt or charge starting in
 **Answer:** "Para registar uma dívida que começa numa data futura, use o Mapa de Parcelamentos em vez do Mapa de Dívidas. Estes vídeos explicam bem: 1. Como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 2. Como editar os parcelamentos manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
 
 ### "Quero parcelar uma dívida que está no Mapa de Dívidas" (e.g. over 5 weeks)
-Add the installments **manually in the Mapa de Parcelamentos**, then **delete the current debt from the Mapa de Dívidas** (otherwise it's deducted twice). After that the amount leaves "Dívida Acumulada", the installment appears instead, and the driver's report shows e.g. "Parcela 1/10". Send the two installment videos below. (Vasco, 16 Nov 2026, Tomás)
+Add the installments **manually in the Mapa de Parcelamentos**, then **delete the current debt from the Mapa de Dívidas** (otherwise it's deducted twice). After that the amount leaves "Dívida Acumulada", the installment appears instead, and the driver's report shows e.g. "Parcela 1/10". Send the two installment videos below. (Vasco, 16 Nov 2026)
 
 ### "Como faço parcelamentos?"
 **Answer:** "Para perceber como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 — e para editar manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"

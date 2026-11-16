@@ -14,7 +14,7 @@ This repo has two parts: the `wati-support` MCP server (`src/`) and the support 
 - Reply in the customer's language (usually PT-PT/PT-BR), short and friendly, in the team's tone (see faq.md).
 - Never ask for, send or repeat passwords. Never promise refunds, discounts, fix dates or cancellations.
 - The 24h WhatsApp window: outside it, only approved templates can be sent.
-- Keep customer data (names, phones, emails, NIFs, passwords, transcripts) **out of the repo**. Analysis files go in the scratchpad.
+- Keep customer data (names, phones, emails, NIFs, passwords, transcripts) **out of the repo**. Analysis files go in the scratchpad. In `knowledge/`, never cite the customer or driver a rule came from: write "(confirmed by Vasco, <date>)".
 - When the user corrects an answer or gives a new rule, update the matching file in `knowledge/` and commit it.
 
 ## Running the MCP server's tools from a cloud session
