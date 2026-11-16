@@ -120,6 +120,10 @@ Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to 
 **Vehicle data in contracts (e.g. comodato):** the automation only fills in the **driver's** data. Vehicle data isn't filled in automatically yet, but the customer can **upload the vehicle documents in the Viaturas tab**. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "De momento a automação preenche apenas os dados do motorista. Os dados do veículo ainda não são preenchidos automaticamente, mas pode carregar os documentos da viatura no separador Viaturas."
 
+### "É possível editar os KMs nos autos?" (vehicle handover/pickup)
+Yes. When doing the delivery (entrega) or pickup (recolha), the kilometres can be edited in the **first step** (confirmed by the team, 16 Nov 2026). Other auto problems (wrong driver, damages that can't be deleted) go to Raffa.
+**Answer:** "Sim, é possível editar. Quando fizer a entrega ou a recolha, no primeiro passo consegue editar o valor dos KMs."
+
 ### "Onde mudo o telefone para onde vão os relatórios?"
 **Answer:** "Diretamente no separador Relatórios."
 
