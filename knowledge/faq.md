@@ -177,7 +177,7 @@ There's no export button yet. For now, print the page from the browser and save 
 (Confirmed by Vasco, 16 Nov 2026.)
 
 ### "Há um campo para inserir os km da viatura à mão e calcular os km extra?" (km limit + price per extra km)
-Yes, the team sets it up for the customer: answer "sim, vamos configurar isso para si" and pass it to Vasco (confirmed by Vasco, 16 Nov 2026).
+Yes, the team sets it up for the customer: answer "sim, vamos configurar isso para si" and pass it to Vasco (confirmed by Vasco, 16 Nov 2026). The "KM" column comes from adding a **GPS platform** to the account, but it only appears in Cálculo when there is GPS data; with no data, ask Raffa how to make a manual "Kms" column available (open question, Nov 2026).
 
 ### "Quero registar uma dívida que começa numa data futura" (e.g. from 23/11)
 The Mapa de Dívidas only shows existing weeks. For a debt or charge starting in a **future week**, use the **Mapa de Parcelamentos**. (Confirmed by Vasco, Nov 2026.)
