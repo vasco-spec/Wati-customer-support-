@@ -159,7 +159,7 @@ The Mapa de Dívidas only shows existing weeks. For a debt or charge starting in
 **Answer:** "Para registar uma dívida que começa numa data futura, use o Mapa de Parcelamentos em vez do Mapa de Dívidas. Estes vídeos explicam bem: 1. Como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 2. Como editar os parcelamentos manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
 
 ### "Quero parcelar uma dívida que está no Mapa de Dívidas" (e.g. over 5 weeks)
-Add the installments **manually in the Mapa de Parcelamentos**, then **delete the current debt from the Mapa de Dívidas** (otherwise it's deducted twice). Send the two installment videos below. (Vasco, 16 Nov 2026, Tomás)
+Add the installments **manually in the Mapa de Parcelamentos**, then **delete the current debt from the Mapa de Dívidas** (otherwise it's deducted twice). After that the amount leaves "Dívida Acumulada", the installment appears instead, and the driver's report shows e.g. "Parcela 1/10". Send the two installment videos below. (Vasco, 16 Nov 2026, Tomás)
 
 ### "Como faço parcelamentos?"
 **Answer:** "Para perceber como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 — e para editar manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
