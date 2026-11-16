@@ -62,7 +62,7 @@ Anything outside these rules still needs approval.
 | **Milton** | Sales and onboarding (**product/how-to calls with existing customers are with Vasco**, confirmed 16 Nov 2026): demos, scheduling calls and accountant meetings, subscription links, IBAN for transfers |
 | **Gonçalo** | Accounting / payment questions (recent) |
 
-Slack: Raffa is `@Raffael Perrutte`. ⚠️ Confirm each person's Wati operator email, so conversations get assigned to the right person.
+Slack: Raffa is `@Raffael Perrutte`. In Jira (project SCRUM) Raffa's account is **"Tech Team"**: assign his tickets there. ⚠️ Confirm each person's Wati operator email, so conversations get assigned to the right person.
 
 ## Always escalate (never resolve alone)
 
