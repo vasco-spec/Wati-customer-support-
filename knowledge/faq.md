@@ -32,8 +32,14 @@ When we log in to Segurança Social or Finanças for the customer, the site send
 
 ## 2. Data not updated / values don't match
 
+### Platform status boxes (top of Calcular Pagamentos)
+Each source (Bolt, Uber, Prio, Prio Electric, Via Verde…) has a box. **Green "Ver dados"** = that week's data is imported. **Yellow/orange ("Sem dados")** = not synchronised yet: the customer just needs to wait and refresh the page. On Monday morning Uber/Bolt should be ready before 10:00 (see known-issues.md). Confirmed by Vasco, 16 Nov 2026.
+
+### "Adicionei um motorista novo e não aparece" / "new driver not showing"
+**Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (Sachin, 16 Nov 2026)
+
 ### "A Uber/Bolt/Prio ainda não atualizou" / "valores a zero"
-Usually the integration needs a new login (code) or the data is delayed.
+First check the platform status boxes (above): on Monday morning a yellow box usually just means wait and refresh. Otherwise the integration needs a new login (code) or the data is delayed.
 **Answer:** "Vamos ver a sua conta agora." ➡️ Escalate. Once fixed: "Já está, pode fazer refresh à página e calcular os pagamentos."
 
 ### "O valor da Uber não bate certo com o que vejo na Uber"
