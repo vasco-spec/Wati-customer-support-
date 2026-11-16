@@ -8,6 +8,10 @@
 |---|---|---|
 | — | — | Nothing recorded yet. Add incidents here, e.g. "Uber sync delayed for all fleets since Monday. Being fixed, ETA Wednesday." |
 
+## Weekly rhythm
+
+- **Monday is payment day.** Fleets pay their drivers on Mondays, so the inbox is busiest on **Monday morning**: data not imported yet, values that don't match, reports, payment files. Check the inbox often (every 5 minutes) and don't leave any conversation unattended.
+
 ## Recurring situations (not bugs)
 
 | Situation | Why it happens | What to do |
