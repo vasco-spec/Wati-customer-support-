@@ -41,6 +41,7 @@ Anything outside these rules still needs approval.
 - **Don't message a customer whose conversation is already closed** just to confirm something (e.g. a payment). Only reply if they write again.
 - **No emojis in customer messages.** The only exception: when a customer thanks us for our help, a friendly emoji in the reply is fine (e.g. "Ora essa! 👍").
 - **Never tell the customer who on the team is handling their request** (no "o Raffa está a tratar"). Always say "we": "Já estamos a tratar disso", "a nossa equipa está a verificar".
+- **Questions about a GoCardless debit ("DDGOCARLESS GALGOSHEETS…"):** check the internal billing spreadsheet (Vasco has the link): tab **Clients** (subscription ID, first payment date), **invoices_new** (invoice dates and amounts per fiscal ID) and **Monthly Check** (this month's GoCardless status and amount). Semestral plans are 6 months × monthly price − 20% + IVA.
 - **No generic answers when information is missing.** Instead of "vamos verificar e já lhe dizemos alguma coisa", ask for exactly what we need (which driver, which week, which installments, from whom to whom, the correct value…). Use a holding reply only once we have the details.
 - **Moving a debt/installments from one driver to another:** normally not possible, but we try to help. First ask which installments, from which driver to which driver (Jean, 16 Nov 2026).
 - **Step-by-step for confused customers:** if the customer doesn't understand, resend the instructions as short numbered steps in simple language, referring to any screenshot the team already sent.
