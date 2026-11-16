@@ -51,6 +51,9 @@ Yes, we can send it, but we charge the cost of the extra WhatsApp messages: only
 ### "Removo um motorista e ele volta a aparecer"
 If a driver keeps coming back after being removed, it's because **he still has earnings that week**. Even if he didn't work, **any adjustment** that week (Uber/Bolt) stops the system from deleting him. Once he has no more transactions, he can be removed. (Vasco, 16 Nov 2026)
 
+### "Os carregamentos/combustível dos motoristas são calculados com ou sem IVA?"
+It's a **configuration of each customer's account**: charging/fuel can be calculated with or without IVA, as set up for them. Answer: "Isso é uma configuração da sua conta: os carregamentos podem ser calculados com ou sem IVA, conforme estiver definido. Se quiser confirmar ou alterar, diga-nos." Changing it is a configuration change → Vasco. (confirmed by Vasco, 16 Nov 2026)
+
 ### "Ao começar a nova semana, os novos motoristas não entram automaticamente?"
 Two different cases, so first ask which one the customer means:
 - **Opening the system on Monday** (normal weekly import): it should fetch **all new drivers from Uber and Bolt**. If one is missing, check whether they worked last week / Uber is synced, then escalate.
