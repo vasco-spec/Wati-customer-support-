@@ -195,6 +195,8 @@ Prices (confirmed by Vasco, Nov 2026):
 | Subscrição recibos verdes | 20€/mês |
 | Subscrição tudo incluído | 30€/mês: **recibos verdes + guias de IVA + guias de Segurança Social + abertura de atividade** |
 
+**Where to buy / subscribe:** the GalgoSheets shop, https://galgosheets-tvde.myshopify.com/ (send this link when a driver or fleet wants to subscribe to accounting services).
+
 New drivers usually work **in a slot for a fleet operator**. If they don't have a fleet yet, **we can help them find one**.
 
 - **App:** drivers request recibos verdes and the IVA / Segurança Social slips in the driver app: https://galgosheets-drivers.netlify.app (confirmed by Vasco, Nov 2026). Questions can also come through WhatsApp.
