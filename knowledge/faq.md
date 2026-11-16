@@ -93,6 +93,7 @@ Yes. Vehicles are **added automatically** when they appear in Via Verde **and th
 ## 3. Drivers in the system
 
 ### "Tenho o mesmo motorista em 2 linhas / nomes duplicados" / "podem associar o motorista X da Uber e Y da Bolt?"
+**Two IDs from the same platform** (e.g. 2 Bolt IDs for one driver): the customer can't merge those; **Raffa** merges them (ping him in #cs).
 Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to the team; send this answer (confirmed by Vasco, 16 Nov 2026).
 **Answer:** "Quando um motorista aparece em 2 linhas, é porque o sistema não conseguiu juntar o ID da Uber e da Bolt (o motorista tem nomes diferentes nas 2 plataformas). Este vídeo explica como juntar os dois: https://www.loom.com/share/9f072c9f6b514d5f846a67abf782529c"
 
