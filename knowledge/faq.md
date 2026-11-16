@@ -211,6 +211,7 @@ Add the installments **manually in the Mapa de Parcelamentos**, then **delete th
 
 ### "O IVA é cobrado sobre gorjetas e portagens?"
 **Answer (default setup):** "O IVA é cobrado apenas sobre o valor das viagens, não incide sobre gorjetas nem portagens." ➡️ This is configurable per fleet. Check if unsure.
+**If the fleet says tips are being included in the 6%** (e.g. a driver complains): it depends on the "Como cobrar o 6% de IVA das plataformas" option. Answer: "Isso depende da opção escolhida na sua conta. Em Configurações → separador "Cálculo de Pagamentos" → "Como cobrar o 6% de IVA das plataformas", se escolher "Ganhos Brutos excl. gorjetas e portagens" (ou "Ganhos Líquidos excl. gorjetas e portagens"), as gorjetas deixam de entrar no cálculo. Depois basta gravar, atualizar a página e gerar o relatório de novo." If they already use an "excl. gorjetas" option, treat it as a mismatch (ask for the driver, the week and the correct value) (confirmed by Vasco, 16 Nov 2026).
 
 ### "Quero cobrar IVA (3%/6%) aos motoristas"
 **Answer:** "Primeiro tem de decidir se cobra sobre o valor bruto (o que o motorista faturou em viagens) ou sobre o líquido (o que tem a receber). O correto é sobre o bruto; muitos frotistas escolhem o líquido porque os motoristas percebem melhor. Diga-nos qual prefere e configuramos." ➡️ Escalate to configure it.
