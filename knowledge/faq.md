@@ -45,6 +45,9 @@ If the fleet had **no trips** on that platform that week, it's normal for it to 
 ### "Um motorista fez parte da semana a slot e parte a comissão (carros diferentes)"
 Ask whether it will happen often. If not: do it **manually this week**, and from next week keep that driver on **only one** model (commission or slot). Draft: "Isto é algo que vai acontecer com frequência? Se não, esta semana pode fazer manualmente e, a partir da próxima semana, mantenha para esse motorista só comissão ou só slot." (Diogo, 16 Nov 2026)
 
+### "Podem enviar esta mensagem a todos os meus motoristas?" (fleet notices, e.g. new prices, bonuses)
+Yes, we can send it, but we charge the cost of the extra WhatsApp messages: only what WhatsApp (Meta) charges us. Current Meta rate for Portuguese numbers: **marketing message €0.049 per delivered message**. Give an example of the total and ask the customer to confirm before sending. (Vasco, 16 Nov 2026, Tomás)
+
 ### "Removo um motorista e ele volta a aparecer"
 If a driver keeps coming back after being removed, it's because **he still has earnings that week**. Even if he didn't work, **any adjustment** that week (Uber/Bolt) stops the system from deleting him. Once he has no more transactions, he can be removed. (Vasco, 16 Nov 2026, Michael)
 
