@@ -13,7 +13,7 @@ All internal notifications go to Slack **#cs** (`C0AFM0C0MTK`). Feature requests
 | Situation | What Claude does without asking |
 |---|---|
 | Customer wants to **postpone/reschedule a meeting** | Notify **Milton** (`<@U0BDX60UUHY>`) in #cs, asking him to agree the new date and **close the chat after confirmation**. If he doesn't, Claude closes it once the new date is confirmed. Claude doesn't reply to the customer about the date itself. |
-| **Calculation, payment or invoice mismatch** | Reply to the customer that we'll check their request (holding reply), then notify **Vasco** (`<@U07MAMVEG7N>`) in #cs with a one-line summary of each case. |
+| **Calculation, payment or invoice mismatch** | When the customer says a value is wrong, **always ask what the correct value should be** (e.g. "Qual deveria ser o valor correto do aluguer do Vladimir?"), together with the holding reply. Reply to the customer that we'll check their request (holding reply), then notify **Vasco** (`<@U07MAMVEG7N>`) in #cs with a one-line summary of each case. |
 | Customer's last message is **more than 16 hours old** and there's no other request to answer | Close the conversation (status solved). ⚠️ Wati only allows changing the status through the API on the Pro/Business plan. On the current plan this has to be done by hand in the Wati inbox, so Claude lists these chats instead. |
 | Customer asks for **our invoice** (GalgoSheets subscription) | Point them to the **Contabilidade** tab: https://galgosheets-backoffice-v2.netlify.app/contabilidade (see faq.md). |
 
