@@ -171,13 +171,16 @@ There's no export button yet. For now, print the page from the browser and save 
 ### "Como funcionam as cauções?" / "abater caução"
 **Answer:** "Este vídeo explica bem: https://www.loom.com/share/d7435feb0a994958a320900e37d80f6a (e para abater/alterar: https://www.loom.com/share/6b64dd7dfdea4e3da3a0a203c9e2e6d3)"
 
+### "Porque é que a caução acumulada deste motorista está com este valor?"
+Open the **Mapa de Cauções** and click on the driver: it shows each movement, including values **added manually** (e.g. a manual 270,60€ that pushed the total above the maximum). Answer: "Para ver o que se passa com as cauções basta entrar no Mapa de Cauções e carregar em cima do motorista." (confirmed by Vasco, 16 Nov 2026)
+
 ### "Como ponho uma caução faseada (ex: 50€/semana) num motorista novo?"
 - If the driver was added through **"Registar auto"**, the deposit can be set up right there.
 - If the driver was added **without an auto**, go to the **Mapa de Cauções** and register the deposit in the column of the **week being paid** (e.g. "09/11" when paying on 16/11). It becomes available from the following week.
 (Confirmed by Vasco, 16 Nov 2026.)
 
 ### "Há um campo para inserir os km da viatura à mão e calcular os km extra?" (km limit + price per extra km)
-Yes, the team sets it up for the customer: answer "sim, vamos configurar isso para si" and pass it to Vasco (confirmed by Vasco, 16 Nov 2026). The "KM" column comes from adding a **GPS platform** to the account, but it only appears in Cálculo when there is GPS data; with no data, ask Raffa how to make a manual "Kms" column available (open question, Nov 2026).
+Yes, the team sets it up for the customer: answer "sim, vamos configurar isso para si" and pass it to Vasco (confirmed by Vasco, 16 Nov 2026). The "KM" column comes from adding a **GPS platform** to the account, but it only appears in Cálculo when there is GPS data; with no data, a manual "Kms" column needs an **extra option activated by the team** (Raffa). Tell the customer we'll activate it during the week and let them know (confirmed 16 Nov 2026).
 
 ### "Quero registar uma dívida que começa numa data futura" (e.g. from 23/11)
 The Mapa de Dívidas only shows existing weeks. For a debt or charge starting in a **future week**, use the **Mapa de Parcelamentos**. (Confirmed by Vasco, Nov 2026.)
