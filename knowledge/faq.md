@@ -39,6 +39,12 @@ Each source (Bolt, Uber, Prio, Prio Electric, Via Verde…) has a box. **Green "
 In **Plataformas**, these platforms show "Upload manual" with an upload button and "Atualizado até <date>".
 **Answer (team's standard text):** "Caso a plataforma em causa não tenha integração automática, pode adicionar o ficheiro Excel/CSV que extrair do portal dessa mesma plataforma. No separador Plataformas, no cartão da plataforma, clique no botão de upload. Este vídeo explica bem: https://www.loom.com/share/385bcbc064be4d2c8f319fed7ab17c62" (confirmed by Vasco, 16 Nov 2026)
 
+### "A POP (ou outra plataforma) indica que ainda não está sincronizada"
+If the fleet had **no trips** on that platform that week, it's normal for it to show as not synchronised. **Answer:** "Teve viagens na POP esta semana? Se não teve, é normal aparecer como não sincronizada." (Vasco, 16 Nov 2026)
+
+### "Um motorista fez parte da semana a slot e parte a comissão (carros diferentes)"
+Ask whether it will happen often. If not: do it **manually this week**, and from next week keep that driver on **only one** model (commission or slot). Draft: "Isto é algo que vai acontecer com frequência? Se não, esta semana pode fazer manualmente e, a partir da próxima semana, mantenha para esse motorista só comissão ou só slot." (Diogo, 16 Nov 2026)
+
 ### "Adicionei um motorista novo e não aparece" / "new driver not showing"
 **Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (Sachin, 16 Nov 2026)
 
