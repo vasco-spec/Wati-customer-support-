@@ -21,6 +21,7 @@
 | Sync stops after the customer **changes a password** | We log in with the old credentials | Escalate. Manual re-connection with the new password and an SMS code |
 | Uber SMS code doesn't arrive | Uber SMS can be very slow | Reassure them: it usually arrives. If it expires, the team requests another |
 | Via Verde differs from the week | Via Verde billing lags; some amounts were already charged | Explain (see FAQ). Not a loss for the fleet |
+| Uber payout to the bank ≠ total "Uber Líquido" in the calculation (small difference) | Compare each driver's Net earnings on the Uber page with Uber Líquido; usually one driver has a payment adjustment, e.g. a trip done at the weekly cut-off | Tell the customer which driver and the difference, and that Uber manages these adjustments itself: if it paid more this week, it pays less in another (confirmed by Vasco, 16 Nov 2026) |
 | Uber amount ≠ Uber Earnings page | Adjustments from previous weeks, refunds, or a different date range | Ask them to compare the exact same dates. Escalate if it still differs |
 | Same driver on two lines | Different names on Uber and Bolt | Merge video (FAQ §3) |
 | Report doesn't reflect a change | Reports have to be regenerated | Refresh, then generate again |
