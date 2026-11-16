@@ -6,7 +6,7 @@
 
 | Since | Affects | Status / what to tell customers |
 |---|---|---|
-| 16 Nov 2026 (Mon morning) | **Prio** (all fleets) | The Prio portal is down/very slow, so we can't sync Prio data. Tell customers: "O portal da Prio está em baixo de momento, por isso ainda não conseguimos sincronizar os dados da Prio. Importamos assim que voltar." Remove this row once Prio is back. |
+| — | — | Nothing open right now. (16 Nov 2026: the Prio portal was down in the morning; back up in the afternoon.) |
 
 ## Weekly rhythm
 
