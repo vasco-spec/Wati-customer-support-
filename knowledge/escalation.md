@@ -40,6 +40,8 @@ Anything outside these rules still needs approval.
 - **Quiet hours: no replies after 21:00** (Lisbon time). After 21:00, only reply to a customer who has written to us **after 21:00 that same evening**. Otherwise wait until the morning. This applies to holding replies under the standing rules too.
 - **Don't message a customer whose conversation is already closed** just to confirm something (e.g. a payment). Only reply if they write again.
 - **No emojis in customer messages.** The only exception: when a customer thanks us for our help, a friendly emoji in the reply is fine (e.g. "Ora essa! 👍").
+- **No generic answers when information is missing.** Instead of "vamos verificar e já lhe dizemos alguma coisa", ask for exactly what we need (which driver, which week, which installments, from whom to whom, the correct value…). Use a holding reply only once we have the details.
+- **Moving a debt/installments from one driver to another:** normally not possible, but we try to help. First ask which installments, from which driver to which driver (Jean, 16 Nov 2026).
 - **Step-by-step for confused customers:** if the customer doesn't understand, resend the instructions as short numbered steps in simple language, referring to any screenshot the team already sent.
 
 ## Who handles what
