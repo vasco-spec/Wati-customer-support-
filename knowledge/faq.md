@@ -247,6 +247,9 @@ Typical explanation: IVA included in the total is Total / 1.06. Charging 6% on t
 ### "Quero mudar para slot fixo / comissão / percentagens diferentes por motorista"
 **Answer:** "É possível, sim — inclusive percentagens diferentes por motorista." ➡️ Escalate. The team configures it or shows how.
 
+### "Se o motorista enviar o recibo verde em PDF, o sistema lê e mostra quanto ele deve de recibo verde?"
+Yes (new feature, Nov 2026). The fleet just needs to turn on the **Mapa de Recibos Verdes** in **Configurações**. Answer: "Sim. Basta ativar o Mapa de Recibos Verdes nas Configurações." (Confirmed by Vasco, 17 Nov 2026.)
+
 ### "O motorista passa recibo com IVA / com retenção na fonte"
 **Answer:** "Em Veículos e Cartões → 'IVA recibo verde' acrescenta o IVA ao valor que o motorista tem a receber, e 'IRS' funciona como retenção."
 
