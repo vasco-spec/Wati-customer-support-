@@ -231,6 +231,9 @@ Typical explanation: IVA included in the total is Total / 1.06. Charging 6% on t
 
 ---
 
+### Driver replies to a "❗❗OPORTUNIDADE" broadcast (a client fleet looking for a driver) — "como funciona?"
+We pass the driver's contact to the fleet owner, who gets in touch. Answer: "Vamos dar o seu contacto ao dono da frota e ele fala consigo." Then send the driver's contact to the owner (Vasco handles, Nov 2026). Ignore meaningless replies and out-of-office auto-replies.
+
 ## 6. Accounting services (drivers)
 
 ### "Como a GalgoSheets ajuda os motoristas com a contabilidade?"
