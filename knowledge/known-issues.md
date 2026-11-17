@@ -27,6 +27,7 @@
 | Report doesn't reflect a change | Reports have to be regenerated | Refresh, then generate again |
 | Driver doesn't receive the report on WhatsApp | The driver must message our number first; sometimes WhatsApp needs reinstalling | FAQ §3, escalate if it persists |
 | Can't make payments | Revolut/bank authorisation expired | Escalate |
+| Prio Elétrico (or other fuel) total in the portal is higher than in the system for the week | A charge made **almost at the weekly cut-off** (e.g. Sunday ~22:45) wasn't available yet when the payment was done on Monday | Find the charge that matches the difference and tell the customer not to worry: it will be charged **next week**. Ask Raffa on the next Monday to confirm it came in (confirmed by Vasco, 17 Nov 2026) |
 | Prio diesel date is old | It shows the last refuel date | Expected |
 | "Dados não disponíveis" warning | No charges that week on that source | Check before escalating |
 | Warning in Calcular Pagamentos: "Detetámos colunas no cálculo que podem não estar a ser consideradas no pagamento final" (e.g. **Dívida**) | A column (like Dívida) isn't included in the total formula, so the report shows it but doesn't deduct it | The team fixes the formula and generates the report again. Tell the customer it's fixed and the new report is ready. If the warning was there in an earlier week with nothing in that column, there was no impact (confirmed by Vasco, 16 Nov 2026) |
