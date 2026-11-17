@@ -231,6 +231,10 @@ First ask what exactly the drivers say is wrong (which value, which week). Then 
 > 
 > Se algum motorista continuar com um valor que não bate, envie-nos o nome e a semana e verificamos.
 
+### Typical driver total formula (internal reference, a fleet's custom formula, Nov 2026)
+`(uber_net − uber_vat + bolt_net − bolt_vat) − that × commission% − (prio_electric + tesla + via_verde) × (1 − commission/commission) − (slot + aluguer) − dívida`
+Meaning: on **commission**, the fleet takes a % of the platform net (after VAT) and the driver does **not** pay charging/fuel or Via Verde; on **slot/aluguer** (commission 0), the driver pays charging, Via Verde and the slot/rent. Formulas are configured per fleet, so check the fleet's own one when in doubt.
+
 ## 5. IVA, slot, commission (fleet configuration)
 
 ### "O IVA é cobrado sobre gorjetas e portagens?"
@@ -249,6 +253,7 @@ Typical explanation: IVA included in the total is Total / 1.06. Charging 6% on t
 
 ### "Se o motorista enviar o recibo verde em PDF, o sistema lê e mostra quanto ele deve de recibo verde?"
 Yes (new feature, Nov 2026). The fleet just needs to turn on the **Mapa de Recibos Verdes** in **Configurações**. Answer: "Sim. Basta ativar o Mapa de Recibos Verdes nas Configurações." (Confirmed by Vasco, 17 Nov 2026.)
+**Where it is after turning it on:** menu **Calcular Pagamentos → Mapa de Recibos verdes**. Send the screenshot `knowledge/images/menu-mapa-recibos-verdes.png` with "Fica no menu Calcular Pagamentos → Mapa de Recibos verdes."
 
 ### "O motorista passa recibo com IVA / com retenção na fonte"
 **Answer:** "Em Veículos e Cartões → 'IVA recibo verde' acrescenta o IVA ao valor que o motorista tem a receber, e 'IRS' funciona como retenção."
