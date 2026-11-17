@@ -10,7 +10,7 @@
 
 ## Weekly rhythm
 
-- **Monday is payment day.** Fleets pay their drivers on Mondays, so the inbox is busiest on **Monday morning**: data not imported yet, values that don't match, reports, payment files. Check the inbox often (every 5 minutes) and don't leave any conversation unattended.
+- **Monday is payment day, and Tuesday is busy too.** Fleets pay their drivers on Mondays, so the inbox is busiest on **Monday morning**: data not imported yet, values that don't match, reports, payment files. Check the inbox every 5 minutes on Monday and Tuesday mornings (8:00–13:00), every 10 minutes otherwise, and don't leave any conversation unattended (Vasco, 17 Nov 2026).
 
 ## Recurring situations (not bugs)
 
