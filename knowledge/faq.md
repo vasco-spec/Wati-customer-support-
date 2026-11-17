@@ -311,6 +311,9 @@ Our invoices (the GalgoSheets subscription) are in the **Contabilidade** tab of 
 ### "Não posso pagar por débito direto"
 ➡️ Escalate. Finance sends the IBAN and invoice. Don't send banking details yourself.
 
+### Freezing / pausing a customer's subscription (e.g. charged while it should be frozen)
+To pause the subscription, move the customer's HubSpot deal to **Churn** (Deals pipeline). This pauses the GoCardless subscription. ~10 minutes later, check that it really paused. Freezes, refunds or free months are decided by Vasco only; never offer them yourself (confirmed by Vasco, 17 Nov 2026).
+
 ### "Podem enviar entidade e referência Multibanco?" / "reference number and entity code"
 We don't have Multibanco entity/reference payments at the moment. Answer: "De momento não temos entidade e referência disponíveis para pagamento." (EN: "Unfortunately we don't have a payment entity and reference available at the moment.") (Confirmed by Vasco, 17 Nov 2026.)
 
