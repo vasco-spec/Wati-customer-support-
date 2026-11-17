@@ -211,7 +211,7 @@ Add the installments **manually in the Mapa de Parcelamentos**, then **delete th
 ---
 
 ### "Preciso de um explicativo para os motoristas fazerem as contas baterem"
-First ask what exactly the drivers say is wrong (which value, which week). Then send this standard explanation (sent 17 Nov 2026, approved by Vasco):
+First ask what exactly the drivers say is wrong (which value, which week). Then send this standard explanation (approved by Vasco, 17 Nov 2026), **split into two messages**: (1) how the total is calculated, (2) "Para as contas baterem" + the closing line:
 
 > Aqui fica o explicativo para os motoristas:
 > 
