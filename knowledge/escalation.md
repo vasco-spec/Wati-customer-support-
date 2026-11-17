@@ -17,6 +17,7 @@ All internal notifications go to Slack **#cs** (`C0AFM0C0MTK`). Feature requests
 | Customer's last message is **more than 16 hours old** and there's no other request to answer | Close the conversation (status solved). ⚠️ Wati only allows changing the status through the API on the Pro/Business plan. On the current plan this has to be done by hand in the Wati inbox, so Claude lists these chats instead. |
 | Customer says **"Obrigado/Obrigada/thank you" after we solved their problem** | Reply "Ora essa! 👍" (EN: "You're welcome! 👍") without asking. Only when it closes a solved case: not when they thank us for a holding reply ("vamos verificar"), for a question, or in any other context (granted 16 Nov 2026). |
 | Customer only says **"Bom dia"/"Olá"** and after **3 minutes** still hasn't said what they need | Reply "Bom dia <nome>, em que podemos ajudar?" (or "Boa tarde…") without asking (granted 17 Nov 2026). |
+| Customer **sends us a file or information we asked for**, with no question | Short acknowledgement, e.g. "Obrigado, já passámos à equipa." (granted 17 Nov 2026) |
 | Customer asks for **our invoice** (GalgoSheets subscription) | Point them to the **Contabilidade** tab: https://galgosheets-backoffice-v2.netlify.app/contabilidade (see faq.md). |
 
 Anything outside these rules still needs approval.
@@ -61,6 +62,8 @@ Anything outside these rules still needs approval.
 - **Customer disputes who made a change** (e.g. "nobody on my team added that manual value"): don't argue about blame. Acknowledge the worry, state what the record shows ("ficou registado como lançamento manual") rather than "you did it", move to the fix (offer to correct the value), say we'll check the origin with the tech team, and offer a call. Ask Raffa to check the history (confirmed by Vasco, 16 Nov 2026).
 - **Short messages, one topic each:** don't send long WhatsApp messages. If a reply covers two topics (e.g. the explanation of a calculation and how to check the values), split it into two messages (Vasco, 17 Nov 2026).
 - **Customer in a hurry** (calls us on WhatsApp, writes "urgente", sends several messages in a row): check that conversation more often, every 1–2 minutes, until they're answered or the case is handed to someone (Vasco, 17 Nov 2026).
+- **Conversations we started (outreach, "extra" cases):** if the customer answered but didn't ask us anything, don't follow up or keep the conversation going. Leave it out of the pending list (Vasco, 17 Nov 2026).
+- **Payment reminders with our IBAN:** use the approved template `closed_won_pagamento_iban` (param `name`). If the customer has already said how/when they'll pay (e.g. in cash), don't send the IBAN: only ask when they plan to pay (Vasco, 17 Nov 2026).
 - **Step-by-step for confused customers:** if the customer doesn't understand, resend the instructions as short numbered steps in simple language, referring to any screenshot the team already sent.
 
 ## Who handles what
