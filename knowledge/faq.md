@@ -211,6 +211,9 @@ Add the installments **manually in the Mapa de Parcelamentos**, then **delete th
 
 ---
 
+### Drivers confused by the report ("as contas não batem")
+Often it's because the report shows **Gorjetas, Portagens and Campanhas** as separate lines. These are already **included in the Uber/Bolt Líquido**, so drivers add them again. Suggest **hiding these lines** in the report: it becomes much easier to understand (Vasco, 17 Nov 2026).
+
 ### "Preciso de um explicativo para os motoristas fazerem as contas baterem"
 First ask what exactly the drivers say is wrong (which value, which week). Then send this standard explanation (approved by Vasco, 17 Nov 2026), **split into two messages**: (1) how the total is calculated, (2) "Para as contas baterem" + the closing line:
 
