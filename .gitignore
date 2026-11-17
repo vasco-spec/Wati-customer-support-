@@ -3,3 +3,4 @@ dist/
 .env
 *.log
 /canned-replies.json
+out/
