@@ -39,6 +39,9 @@ Each source (Bolt, Uber, Prio, Prio Electric, Via Verde…) has a box. **Green "
 In **Plataformas**, these platforms show "Upload manual" with an upload button and "Atualizado até <date>".
 **Answer (team's standard text):** "Caso a plataforma em causa não tenha integração automática, pode adicionar o ficheiro Excel/CSV que extrair do portal dessa mesma plataforma. No separador Plataformas, no cartão da plataforma, clique no botão de upload. Este vídeo explica bem: https://www.loom.com/share/385bcbc064be4d2c8f319fed7ab17c62" (confirmed by Vasco, 16 Nov 2026)
 
+### "Não encontro a POP na lista de plataformas" / "Quando vamos ter integração da POP?"
+POP is supported. In Plataformas (https://galgosheets-backoffice-v2.netlify.app/platforms), top right, "Adicionar Plataformas". If POP isn't in the list, ask them to **refresh the page** (about 20 customers have already added it). (Confirmed by Vasco, 17 Nov 2026.)
+
 ### "A POP (ou outra plataforma) indica que ainda não está sincronizada"
 If the fleet had **no trips** on that platform that week, it's normal for it to show as not synchronised. **Answer:** "Teve viagens na POP esta semana? Se não teve, é normal aparecer como não sincronizada." (Vasco, 16 Nov 2026)
 
