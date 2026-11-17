@@ -234,6 +234,14 @@ First ask what exactly the drivers say is wrong (which value, which week). Then 
 ### Typical driver total formula (internal reference, a fleet's custom formula, Nov 2026)
 `(uber_net − uber_vat + bolt_net − bolt_vat) − that × commission% − (prio_electric + tesla + via_verde) × (1 − commission/commission) − (slot + aluguer) − dívida`
 Meaning: on **commission**, the fleet takes a % of the platform net (after VAT) and the driver does **not** pay charging/fuel or Via Verde; on **slot/aluguer** (commission 0), the driver pays charging, Via Verde and the slot/rent. Formulas are configured per fleet, so check the fleet's own one when in doubt.
+**Simplified explanation for commission drivers** (sent 17 Nov 2026, approved by Vasco):
+> Para os motoristas à comissão, o cálculo é:
+> 1. Ganhos líquidos da Uber e da Bolt, menos o IVA das plataformas
+> 2. Menos a comissão da frota (% sobre esse valor)
+> 3. Menos dívidas, se existirem
+> = Total a receber
+>
+> A quem está à comissão não são descontados carregamentos nem Via Verde.
 
 ## 5. IVA, slot, commission (fleet configuration)
 
