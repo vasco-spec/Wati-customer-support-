@@ -308,6 +308,9 @@ Our invoices (the GalgoSheets subscription) are in the **Contabilidade** tab of 
 ### "Não posso pagar por débito direto"
 ➡️ Escalate. Finance sends the IBAN and invoice. Don't send banking details yourself.
 
+### "Podem enviar entidade e referência Multibanco?" / "reference number and entity code"
+We don't have Multibanco entity/reference payments at the moment. Answer: "De momento não temos entidade e referência disponíveis para pagamento." (EN: "Unfortunately we don't have a payment entity and reference available at the moment.") (Confirmed by Vasco, 17 Nov 2026.)
+
 ### "Quero cancelar" / "cobraram-me sem eu querer"
 ➡️ **Always escalate.** Never confirm a cancellation or refund yourself. The team usually asks for feedback and may call.
 **Answer:** "Lamentamos! Vamos passar o seu pedido à equipa, que lhe responde ainda hoje."
