@@ -42,6 +42,8 @@ Anything outside these rules still needs approval.
   - **Descrição:** one line, about 10–15 words, essentials only (driver/plate, the amount, what we need). No background or what we told the customer unless essential (Vasco, 16 Nov 2026). Example: "Caução Gurpreet: lançamento manual 270,60€ que o cliente não reconhece. Ver histórico e reverter."
   - Follow-ups in the thread: one short line too.
 
+  **Before every re-tag**, check two things: (1) the **Wati conversation**, because the team often answers the customer there directly without writing in Slack; (2) the **emoji reactions** on our #cs messages (e.g. 👀/✅ = seen/handling). If either shows it's being handled, don't re-tag (Raffa, 17 Nov 2026).
+
   **Follow-up:** if there's no answer within **10 minutes**, tag them again in the same thread, and keep doing so every 10 minutes until they say it's solved or the Wati conversation shows it's fully solved.
 - **One Slack message per case:** put everything (details, priority, extra questions) in a single message. Don't send several in a row (Raffa, 16 Nov 2026). If something new comes up later, one new message is fine.
 - **Tone with the team on Slack:** polite and soft, never orders. Say e.g. "Prioriza o Maurício sff, ele já está ali há algum tempo à espera", not "responde já…" (Vasco, 16 Nov 2026).
