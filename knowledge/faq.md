@@ -210,6 +210,27 @@ Add the installments **manually in the Mapa de Parcelamentos**, then **delete th
 
 ---
 
+### "Preciso de um explicativo para os motoristas fazerem as contas baterem"
+First ask what exactly the drivers say is wrong (which value, which week). Then send this standard explanation (sent 17 Nov 2026, approved by Vasco):
+
+> Aqui fica o explicativo para os motoristas:
+> 
+> O valor a receber no relatório é calculado assim:
+> 1. Ganhos líquidos da Uber e da Bolt (o que as plataformas pagam, já sem a comissão delas)
+> 2. Menos o IVA das plataformas, conforme a configuração da frota
+> 3. Menos combustível ou carregamentos (Prio, etc.)
+> 4. Menos portagens (Via Verde)
+> 5. Menos o aluguer/slot ou a comissão da frota
+> 6. Menos dívidas ou parcelas, se existirem (mais bónus ou créditos, se existirem)
+> = Total a receber
+> 
+> Para as contas baterem:
+> - Comparar sempre as mesmas datas da semana do relatório com a página de ganhos da Uber e da Bolt.
+> - A Uber faz por vezes acertos de semanas anteriores, que fazem variar o valor da semana.
+> - A Via Verde pode cobrar com atraso valores de semanas anteriores.
+> 
+> Se algum motorista continuar com um valor que não bate, envie-nos o nome e a semana e verificamos.
+
 ## 5. IVA, slot, commission (fleet configuration)
 
 ### "O IVA é cobrado sobre gorjetas e portagens?"
