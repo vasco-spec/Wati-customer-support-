@@ -317,6 +317,10 @@ New drivers usually work **in a slot for a fleet operator**. If they don't have 
 - **App:** drivers request recibos verdes and the IVA / Segurança Social slips in the driver app: https://galgosheets-drivers.netlify.app (confirmed by Vasco, Nov 2026). Questions can also come through WhatsApp.
 - **What operators charge** (for drivers asking whether a deal is fair): **10% of invoicing, all included** is a common deal. Some operators charge a **flat 25€ + IVA** instead. ⚠️ Confirm the period (per week?).
 
+### Pitching "Recibos verdes automáticos" to fleets (Nov 2026)
+**What it is:** drivers request their recibos verdes **automatically in an app** (https://galgosheets-drivers.netlify.app); they don't have to issue them by hand. Fleets with many drivers can offer it to them. (Confirmed by Vasco, 18 Nov 2026.)
+**Pitch:** "Temos uma nova funcionalidade que permite aos motoristas pedir os recibos verdes de forma automática, numa app. Como tem muitos motoristas, gostaria de ver como funciona?" If they say yes, book a call (invite to Vasco/Milton and the customer). Only send it to the fleets Vasco names.
+
 ### "Devo abrir atividade (trabalhador independente) ou ENI?"
 The team's position (Vasco, Nov 2026):
 - The difference is mostly **legal setup**: trabalhador independente (TI) registers with a **CIRS** activity code, ENI with a **CAE** code. ⚠️ Vasco wrote "Ciara"; we read it as CIRS.
