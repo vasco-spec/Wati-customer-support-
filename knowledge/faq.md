@@ -73,6 +73,12 @@ Two different cases, so first ask which one the customer means:
 ### "Adicionei um motorista novo e não aparece" / "new driver not showing"
 **Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (confirmed by Vasco, 16 Nov 2026)
 
+### "A Bolt pede para mudar a chave da API para V2 (a V1 caduca)"
+Bolt is retiring fleet API keys V1 (expiry 31 Jan 2027). The team is already handling the switch to V2; the customer doesn't need to do anything. **Answer:** "Obrigado pelo aviso. Não precisa de se preocupar, já estamos a tratar da mudança para a API V2 da Bolt." (confirmed by Vasco, 18 Nov 2026)
+
+### "Vou trocar de viatura com um motorista. Como faço?"
+Send the Loom showing how to change the vehicle in **Veículos e Cartões**: https://www.loom.com/share/fd77078c522543f694d4611fb301c0f8 (confirmed by Vasco, 18 Nov 2026)
+
 ### "A Uber/Bolt/Prio ainda não atualizou" / "valores a zero"
 First check the platform status boxes (above): on Monday morning a yellow box usually just means wait and refresh. Otherwise the integration needs a new login (code) or the data is delayed.
 **Answer:** "Vamos ver a sua conta agora." ➡️ Escalate. Once fixed: "Já está, pode fazer refresh à página e calcular os pagamentos."
