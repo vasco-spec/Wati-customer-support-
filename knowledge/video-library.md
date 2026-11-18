@@ -21,7 +21,8 @@ These are the videos the team already sends to customers, collected from WhatsAp
 | Merge duplicated driver (Uber + Bolt IDs), current version | https://www.loom.com/share/9f072c9f6b514d5f846a67abf782529c | 13× |
 | Merge drivers (older version) | https://www.loom.com/share/e9565761e4564662a9d23f1c1fd07c77 | 22× |
 | Merge drivers (older version 2) | https://www.loom.com/share/0bb125d851dc4af399eb8cc30baa9036 | 3× |
-| Remove a driver who no longer works with the fleet | https://www.loom.com/share/e3b1a53ee9554307b9756a6bee32fee6 | 7× |
+| Remove a driver who no longer works with the fleet (current, 18 Nov 2026) | https://www.loom.com/share/2e77d84c328f4edd914f1965217a3188 | new |
+| Remove a driver (outdated: shows a 3-dots menu, don't send) | https://www.loom.com/share/e3b1a53ee9554307b9756a6bee32fee6 | 7× |
 | Remove a driver (older version) | https://www.loom.com/share/cffa9b80bfaf4a19a60a18d43f5e735e | 1× |
 | Add drivers | https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c | 1× |
 

@@ -118,7 +118,7 @@ Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to 
 **Answer:** "Quando um motorista aparece em 2 linhas, é porque o sistema não conseguiu juntar o ID da Uber e da Bolt (o motorista tem nomes diferentes nas 2 plataformas). Este vídeo explica como juntar os dois: https://www.loom.com/share/9f072c9f6b514d5f846a67abf782529c"
 
 ### "Como excluo/apago um motorista que já não trabalha comigo?"
-**Answer:** "Basta excluir da lista de motoristas. Este vídeo explica bem: https://www.loom.com/share/e3b1a53ee9554307b9756a6bee32fee6"
+**Answer:** "Basta excluir da lista de motoristas. Este vídeo explica bem: https://www.loom.com/share/2e77d84c328f4edd914f1965217a3188" (new video, Vasco 18 Nov 2026; the old one e3b1a53e… shows a 3-dots menu that no longer exists)
 
 ### "Carros sem motorista (oficina/parque): como ficam os movimentos?" / "Posso atribuir vários carros ao mesmo motorista?"
 **Not possible for now.** A driver can only have one vehicle assigned, and there's no "oficina/parque" status for unassigned cars. Movements (Via Verde, etc.) of unassigned cars have to be entered manually. A customer suggestion to support this was passed to the devs on 13 Nov 2026. (Confirmed by Vasco.)
