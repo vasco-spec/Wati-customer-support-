@@ -285,7 +285,7 @@ Yes (new feature, Nov 2026). The fleet just needs to turn on the **Mapa de Recib
 ---
 
 ### Driver replies to a "❗❗OPORTUNIDADE" broadcast (a client fleet looking for a driver) — "como funciona?"
-We pass the driver's contact to the fleet owner, who gets in touch. Answer: "Vamos dar o seu contacto ao dono da frota e ele fala consigo." Then send the driver's contact to the owner (Vasco handles, Nov 2026). **Always engage with replies to this broadcast**: the driver answered us, so even a bare "Oi"/"Olá" gets "Boa tarde <nome>, em que podemos ajudar?" after 3 min (Vasco, 17 Nov 2026). Only out-of-office auto-replies are ignored.
+We pass the driver's contact to the fleet owner, who gets in touch. Answer: "Vamos dar o seu contacto ao dono da frota e ele fala consigo." Then send the driver's contact to the owner (Vasco handles, Nov 2026). **Always engage with replies to this broadcast**: the driver answered us, so even a bare "Oi"/"Olá" gets "Boa tarde <nome>, em que podemos ajudar?" after 3 min (Vasco, 17 Nov 2026). The same goes for a reply that is **only a link** (e.g. a Facebook link): greet them (Vasco, 18 Nov 2026). Only out-of-office auto-replies are ignored.
 
 ## 6. Accounting services (drivers)
 
