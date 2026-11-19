@@ -154,7 +154,7 @@ Yes. When doing the delivery (entrega) or pickup (recolha), the kilometres can b
 ### "Podem enviar um comunicado nosso a todos os motoristas?" (e.g. with the Monday reports)
 Yes, we can send the fleet's message to all its drivers by WhatsApp, but each message costs **0,045€** (what WhatsApp charges us). Tell the customer the cost and ask if they want to go ahead. (Confirmed by Vasco, 19 Nov 2026.)
 **Answer:** "Podemos enviar este comunicado a todos os motoristas por WhatsApp. Cada mensagem tem um custo de 0,045€ (é o valor que o WhatsApp nos cobra). Quer avançar?"
-**If they want it inside the report instead:** only a **short fixed text at the bottom of the report** is possible (one or two sentences), not a long notice. Ask them for a short version. (Vasco, 19 Nov 2026.)
+**If they want it inside the report instead:** only a **short fixed text at the bottom of the report** is possible (one or two sentences), not a long notice. Ask them for a short version. (Vasco, 19 Nov 2026.) Adding the text is **standard procedure for the account manager** (e.g. Milton), not a tech task: don't send it to Raffa (Vasco, 19 Nov 2026).
 
 ### "Alterei X mas o relatório continua igual"
 **Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, faça refresh à página e gere o relatório outra vez."
