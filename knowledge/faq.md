@@ -98,6 +98,10 @@ For a platform without integration, see video-library.md (upload Excel/CSV).
 Yes. Vehicles are **added automatically** when they appear in Via Verde **and there are charges on that plate**. No setup is needed. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Não precisa de fazer nada. Os veículos são adicionados automaticamente assim que aparecem na Via Verde e há cobranças na respetiva matrícula."
 
+### "Alguns carros não aparecem, mas os motoristas sim" / "some cars are not showing"
+The car has had **no Via Verde charges** yet, so it wasn't added automatically. The customer can add it manually: in the **Matrículas** column, open the driver's plate dropdown and click **"+ Criar matrícula"**. (Confirmed by Vasco, 19 Nov 2026.)
+**Answer (EN):** "The cars that are not showing are the ones with no Via Verde charges yet. Cars are added automatically when there are Via Verde charges on that plate." + "You can also add them manually: in the plates (Matrículas) column, open the dropdown for the driver and click \"+ Criar matrícula\"."
+
 ### "A matrícula é associada ao motorista automaticamente?"
 **No.** Associating plates to drivers is part of **payments** (not vehicle management) and is done **manually in Veículos e Cartões, under the Calcular Pagamentos tab**. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Não, a matrícula não é associada automaticamente ao motorista. Isso é feito manualmente em Veículos e Cartões, no separador Calcular Pagamentos."
