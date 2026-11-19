@@ -68,7 +68,7 @@ The account setting is **"Como cobrar o 6% de IVA das plataformas"**, with these
 ### "Ao começar a nova semana, os novos motoristas não entram automaticamente?"
 Two different cases, so first ask which one the customer means:
 - **Opening the system on Monday** (normal weekly import): it should fetch **all new drivers from Uber and Bolt**. If one is missing, check whether they worked last week / Uber is synced, then escalate.
-- **"Preparar nova semana"**: the system only fetches **new drivers from Bolt**, not from Uber. New Uber drivers have to be added manually (video: https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c). (Vasco, 16 Nov 2026)
+- **"Preparar nova semana"**: the system only fetches **new drivers from Bolt**, not from Uber. New Uber drivers have to be added manually (video: https://www.loom.com/share/17e078ab4704434eb72a6616adb43f91). (Vasco, 16 Nov 2026)
 
 ### "Adicionei um motorista novo e não aparece" / "new driver not showing"
 **Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (confirmed by Vasco, 16 Nov 2026)
@@ -129,7 +129,7 @@ Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to 
 **Answer:** "De momento isso ainda não é possível: cada motorista só pode ter uma viatura atribuída, por isso os movimentos das viaturas paradas (oficina/parque) têm de ser lançados manualmente, como já está a fazer. Obrigado pela sugestão, já a passámos à nossa equipa de desenvolvimento."
 
 ### "Como adiciono um motorista?"
-**Answer:** "Tem aqui o vídeo: https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c"
+**Answer:** "Tem aqui o vídeo: https://www.loom.com/share/17e078ab4704434eb72a6616adb43f91" (new video confirmed by Vasco, 19 Nov 2026; the old 642d7dac… link is dead)
 
 ### "O motorista não recebe o relatório no WhatsApp"
 The reports are sent from a **different number** than this support chat: **+351 965916524**. Never say "este número".
