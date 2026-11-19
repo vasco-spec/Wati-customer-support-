@@ -144,6 +144,10 @@ The reports are sent from a **different number** than this support chat: **+351 
 Yes. When doing the delivery (entrega) or pickup (recolha), the kilometres can be edited in the **first step** (confirmed by the team, 16 Nov 2026). Other auto problems (wrong driver, damages that can't be deleted) go to Raffa.
 **Answer:** "Sim, é possível editar. Quando fizer a entrega ou a recolha, no primeiro passo consegue editar o valor dos KMs."
 
+### "É possível editar o auto de entrega quando houve enganos?"
+No. A finished handover (auto de entrega) can't be edited. The customer has to register the vehicle return (recolha) and do the handover again (confirmed by Vasco, 19 Nov 2026; ⚠️ asked Raffa in #cs to double-check).
+**Answer:** "Não é possível editar o auto de entrega. Para corrigir, tem de registar a devolução da viatura e fazer a entrega de novo."
+
 ### "Onde mudo o telefone para onde vão os relatórios?"
 **Answer:** "Diretamente no separador Relatórios."
 
