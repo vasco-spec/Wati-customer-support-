@@ -24,7 +24,7 @@ These are the videos the team already sends to customers, collected from WhatsAp
 | Remove a driver who no longer works with the fleet (current, 18 Nov 2026) | https://www.loom.com/share/2e77d84c328f4edd914f1965217a3188 | new |
 | Remove a driver (outdated: shows a 3-dots menu, don't send) | https://www.loom.com/share/e3b1a53ee9554307b9756a6bee32fee6 | 7× |
 | Remove a driver (older version) | https://www.loom.com/share/cffa9b80bfaf4a19a60a18d43f5e735e | 1× |
-| Add drivers | https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c | 1× |
+| Add drivers ⚠️ a customer reported on 19 Nov 2026 that one of the Looms sent with this link (this one or the vehicle-swap one) is "not available"; check before sending | https://www.loom.com/share/642d7dac06e34d8a833544c383d87b5c | 1× |
 
 ## Vehicles, cards, handovers
 
