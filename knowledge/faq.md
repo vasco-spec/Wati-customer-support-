@@ -151,6 +151,10 @@ Yes. When doing the delivery (entrega) or pickup (recolha), the kilometres can b
 
 ## 4. Payments, reports and calculations
 
+### "Podem enviar um comunicado nosso a todos os motoristas?" (e.g. with the Monday reports)
+Yes, we can send the fleet's message to all its drivers by WhatsApp, but each message costs **0,045€** (what WhatsApp charges us). Tell the customer the cost and ask if they want to go ahead. (Confirmed by Vasco, 19 Nov 2026.)
+**Answer:** "Podemos enviar este comunicado a todos os motoristas por WhatsApp. Cada mensagem tem um custo de 0,045€ (é o valor que o WhatsApp nos cobra). Quer avançar?"
+
 ### "Alterei X mas o relatório continua igual"
 **Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, faça refresh à página e gere o relatório outra vez."
 
