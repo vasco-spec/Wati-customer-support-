@@ -162,6 +162,10 @@ Yes, we can send the fleet's message to all its drivers by WhatsApp, but each me
 ### "Como vejo relatórios / pagamentos de semanas passadas?"
 **Answer:** "Basta ir a Cálculo de Pagamentos e selecionar a semana que quer analisar. Este vídeo explica bem: https://www.loom.com/share/f6921e3c20b44f65a680d1c89993509b"
 
+### "Preciso do histórico de um motorista de meses antes da migração" / "consigo ver no sistema novo?"
+Data from **before the customer migrated** to the new system is **not in the new system**. They can see it in the **old system**: log in at **app-galgosheets.com** with their usual login. (Confirmed by Vasco, 19 Nov 2026.)
+**Answer:** "Esse histórico não está no sistema novo. Para o consultar, basta entrar no sistema antigo em app-galgosheets.com com o seu login."
+
 ### "Qual o total da Prio / Via Verde / Uber da semana?" / "How to check the overall Prio from last week"
 In Calcular Pagamentos, every column (consumptions like Prio and Via Verde, earnings like Uber and Bolt) shows **the total for the whole fleet at the top of the column**. For a past week, select that week first. (Confirmed by the team, Nov 2026.)
 **Answer (PT):** "Em Calcular Pagamentos, selecione a semana que quer ver. O total de cada coluna — consumos (Prio, Via Verde…) ou ganhos (Uber, Bolt…) — aparece no topo da respetiva coluna."
