@@ -85,6 +85,9 @@ Anything outside these rules still needs approval.
 
 Slack: Raffa is `@Raffael Perrutte`. In Jira (project SCRUM) Raffa's account is **"Tech Team"**: assign his tickets there. ⚠️ Confirm each person's Wati operator email, so conversations get assigned to the right person.
 
+## Pinging people on Slack
+Always **@-tag the person** (e.g. `<@U0C4R208657>` for Sandra), including in DMs and in thread replies, so they get a notification (Vasco, 20 Nov 2026). Replies often come **inside the thread** of our message: read the thread, not only the channel.
+
 ## Instagram conversations
 Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram"). **Don't reply to them**; leave them to the team (Raffa, 20 Nov 2026). The quick scan doesn't show the channel: check it before replying to an unknown contact.
 
