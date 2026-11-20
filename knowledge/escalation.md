@@ -89,7 +89,7 @@ Slack: Raffa is `@Raffael Perrutte`. In Jira (project SCRUM) Raffa's account is 
 Always **@-tag the person** (e.g. `<@U0C4R208657>` for Sandra), including in DMs and in thread replies, so they get a notification (Vasco, 20 Nov 2026). Replies often come **inside the thread** of our message: read the thread, not only the channel.
 
 ## Instagram conversations
-Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram"). **Don't reply to them**; leave them to the team (Raffa, 20 Nov 2026). The quick scan doesn't show the channel: check it before replying to an unknown contact.
+Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram"). **Don't reply to them**; Milton handles Instagram (Raffa, 20 Nov 2026). The quick scan doesn't show the channel: check it before replying to an unknown contact.
 
 ## Always escalate (never resolve alone)
 

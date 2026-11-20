@@ -317,6 +317,10 @@ Standing rule (Vasco, 20 Nov 2026): answer without asking first.
 - Not interested / auto-replies → no answer.
 - Anything else (a specific tax problem, a bill, a deadline) → draft and ask Vasco.
 
+### "O que conta para o limite de 15.000€ do regime de isenção de IVA?"
+Recibos verdes **and** invoices issued in the person's individual name (confirmed by Sandra, accountant, 20 Nov 2026).
+**Answer:** "Para o limite de 15.000€ do regime de isenção contam os recibos verdes e também as faturas emitidas em seu nome individual."
+
 ### "Que direitos tenho a recibos verdes?"
 **Answer:** "Ao passar recibos verdes tem prova de rendimentos (necessária, por exemplo, para pedir crédito) e, se descontar para a Segurança Social, tem direito a apoios do Estado em caso de doença, invalidez ou reforma. Se quiser saber mais, pode agendar uma reunião com a nossa contabilista."
 
