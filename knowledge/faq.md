@@ -309,6 +309,14 @@ We pass the driver's contact to the fleet owner, who gets in touch. Answer: "Vam
 ### "Como a GalgoSheets ajuda os motoristas com a contabilidade?"
 **Answer:** "Ajudamos os motoristas com as finanças e a Segurança Social: 1) emissão de recibos verdes, 2) guias de pagamento de IVA e Segurança Social, 3) abertura de atividade, 4) consultoria sobre a sua situação. Temos uma aplicação onde pode pedir tudo isto automaticamente, e pode agendar uma reunião virtual com a nossa contabilista."
 
+### Replies to the "Evite multas na AT e na Segurança Social!" campaign (20 Nov 2026)
+Standing rule (Vasco, 20 Nov 2026): answer without asking first.
+- Interested / "não sei como é" / asks how it works → "Bom dia <nome>. Ajudamos os motoristas com as finanças e a Segurança Social: recibos verdes, guias de IVA e Segurança Social, abertura de atividade e consultoria. Quer marcar uma reunião com a nossa contabilista para ver a sua situação?" If they say yes, book the meeting (30€, see prices below).
+- Prices → use the price table in this section.
+- Not available now (travelling, later) → "Obrigado <nome>. Quando voltar, fale connosco e vemos a sua situação."
+- Not interested / auto-replies → no answer.
+- Anything else (a specific tax problem, a bill, a deadline) → draft and ask Vasco.
+
 ### "Que direitos tenho a recibos verdes?"
 **Answer:** "Ao passar recibos verdes tem prova de rendimentos (necessária, por exemplo, para pedir crédito) e, se descontar para a Segurança Social, tem direito a apoios do Estado em caso de doença, invalidez ou reforma. Se quiser saber mais, pode agendar uma reunião com a nossa contabilista."
 
