@@ -1,5 +1,7 @@
 # Video library (Loom)
 
+**Shared Loom sheet (team source of truth, 20 Nov 2026):** https://docs.google.com/spreadsheets/d/1YwAqg39QLGC5EkaqJsy2fPYmlcAs5ho4he40aJstov8 (tab "Looms": #, Title, Link, Uploaded). Raffa keeps his Looms there (not in Slack); our current videos below were added as rows 18–40. Check the sheet first for new videos, e.g. "Emitir primeira declaração IVA e Segurança Social" (d5ce8262…) and "Como emitir o primeiro recibo verde" (098870ce…). For adding drivers, ours (17e078ab…, 19 Nov) is current; the sheet's older "Como adicionar motoristas" (06e6ff52…) is from ~March 2026.
+
 These are the videos the team already sends to customers, collected from WhatsApp conversations. The "used" column counts how many times each was sent in conversations since April 2026. ⚠️ The descriptions come from the message the video was sent with. Once we have the Loom transcripts, they'll be replaced with real summaries.
 
 ## Getting started / weekly cycle
