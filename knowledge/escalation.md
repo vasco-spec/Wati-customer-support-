@@ -85,6 +85,9 @@ Anything outside these rules still needs approval.
 
 Slack: Raffa is `@Raffael Perrutte`. In Jira (project SCRUM) Raffa's account is **"Tech Team"**: assign his tickets there. ⚠️ Confirm each person's Wati operator email, so conversations get assigned to the right person.
 
+## Instagram conversations
+Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram"). **Don't reply to them**; leave them to the team (Raffa, 20 Nov 2026). The quick scan doesn't show the channel: check it before replying to an unknown contact.
+
 ## Always escalate (never resolve alone)
 
 - Anything that requires **logging in to a customer's platform** or entering a verification code.
