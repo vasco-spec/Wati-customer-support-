@@ -215,6 +215,10 @@ Open the **Mapa de Cauções** and click on the driver: it shows each movement, 
 ### "Há um campo para inserir os km da viatura à mão e calcular os km extra?" (km limit + price per extra km)
 Yes, the team sets it up for the customer: answer "sim, vamos configurar isso para si" and pass it to Vasco (confirmed by Vasco, 16 Nov 2026). The "KM" column comes from adding a **GPS platform** to the account, but it only appears in Cálculo when there is GPS data; with no data, a manual "Kms" column needs an **extra option activated by the team** (Raffa). Tell the customer we'll activate it during the week and let them know (confirmed 16 Nov 2026).
 
+### "Como registo um pagamento adiantado que um motorista me fez?"
+Add it manually in the **Mapa de Dívidas**, tab **Dívida** (not "Pagamento"); send the manual-debts video (confirmed by Vasco, 20 Nov 2026).
+**Answer:** "Para registar um pagamento adiantado, basta adicioná-lo manualmente no Mapa de Dívidas, no separador Dívida (não em Pagamento). Este vídeo mostra como: https://www.loom.com/share/4b80573326ea4fc89eb6e134a4862d6f"
+
 ### "Quero registar uma dívida que começa numa data futura" (e.g. from 23/11)
 The Mapa de Dívidas only shows existing weeks. For a debt or charge starting in a **future week**, use the **Mapa de Parcelamentos**. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Para registar uma dívida que começa numa data futura, use o Mapa de Parcelamentos em vez do Mapa de Dívidas. Estes vídeos explicam bem: 1. Como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 2. Como editar os parcelamentos manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
