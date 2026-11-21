@@ -325,6 +325,10 @@ Standing rule (Vasco, 20 Nov 2026): answer without asking first.
 Recibos verdes **and** invoices issued in the person's individual name (confirmed by Sandra, accountant, 20 Nov 2026).
 **Answer:** "Para o limite de 15.000€ do regime de isenção contam os recibos verdes e também as faturas emitidas em seu nome individual."
 
+### "Faltaram faturas na declaração de IVA. Ainda podem ser contabilizadas? Posso fazer uma declaração de substituição?"
+Invoices left out can go into the next quarter's IVA return with no problem. A replacement (substituição) return is possible but filed late, so it triggers a fine (coima); whether it's worth it needs the accountant's analysis (confirmed by Sandra, accountant, 21 Nov 2026).
+**Answer:** "As faturas que não foram contabilizadas podem entrar no próximo trimestre, sem qualquer problema. A declaração de substituição do IVA é possível, mas gera coima por ser entregue fora de prazo. A nossa contabilista pode analisar consigo se vale a pena."
+
 ### "Que direitos tenho a recibos verdes?"
 **Answer:** "Ao passar recibos verdes tem prova de rendimentos (necessária, por exemplo, para pedir crédito) e, se descontar para a Segurança Social, tem direito a apoios do Estado em caso de doença, invalidez ou reforma. Se quiser saber mais, pode agendar uma reunião com a nossa contabilista."
 
