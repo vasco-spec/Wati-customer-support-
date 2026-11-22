@@ -55,6 +55,7 @@ Anything outside these rules still needs approval.
 - **Meeting reminders are automatic:** the reminder (with the link) is sent to the customer by the automation that reads the users list in our sheet. Don't send meeting reminders by hand on WhatsApp (Vasco, 17 Nov 2026).
 - **As soon as a customer accepts a call, send the calendar invite straight away** (Google Meet) to Vasco, or to the team member doing the call (e.g. Milton), **and to the customer**. If we don't have the customer's email, ask for it in the same reply (Vasco, 17 Nov 2026).
 - **Onboarding/configuration meetings** (setting up a new fleet on GalgoSheets): calendar title is always **"GalgoSheets -> Onboarding"** and they last **1h30**. Check the calendar for a free 1h30 slot before proposing a time (confirmed by Vasco, 22 Nov 2026).
+- **Accountant asks for a client's Portal das Finanças access**: never ask the customer. The access details are already in the team's client sheet ("a folha"); point the accountant there (confirmed by Vasco, 22 Nov 2026).
 - **Weekends:** replying on Saturdays and Sundays is fine, with the same hours as weekdays.
 - **Re-read the conversation right before every send.** Customers often add a question (e.g. as an image caption) between the scan and the send.
 - **Check the clock before every send.** Quiet hours also apply when the user approves a message late in the evening: hold it until 9:00 and say so, unless the customer wrote after 21:00.
