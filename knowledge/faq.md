@@ -427,6 +427,6 @@ We don't have Multibanco entity/reference payments at the moment. Answer: "De mo
 
 Customers whose HubSpot **deal** has original traffic source **AI Referral** (`hs_analytics_source = AI_REFERRALS`; check the deal, the contact may show OFFLINE) get this offer: **the 1st month is charged, the 2nd and 3rd months are free**.
 
-How to check: count the subscription invoices with `ver_fatura_galgosheets_mes` (month by month; `ver_faturas_subscricao` may come back empty). If an invoice was issued for the 2nd or 3rd month, it's our mistake: say so, apologise, and **ask for the customer's IBAN so we can refund it**. Tell Vasco in #cs so the next free month isn't charged too (confirmed by Vasco, 22 Nov 2026).
+How to check: count the subscription invoices with `ver_fatura_galgosheets_mes` (month by month; `ver_faturas_subscricao` may come back empty). If an invoice was issued for the 2nd or 3rd month, it's our mistake: say so, apologise, and **ask for the customer's IBAN so we can refund it**. Tell Vasco in #cs so the next free month isn't charged too (confirmed by Vasco, 22 Nov 2026). If the customer prefers not to cancel the invoice, we can instead give the next months free: ask the finance session to pause the GoCardless subscription of that HubSpot deal for those months (confirmed by Vasco, 22 Nov 2026).
 
 If the source is not AI Referral, don't confirm any free months: holding reply + ping Vasco.
