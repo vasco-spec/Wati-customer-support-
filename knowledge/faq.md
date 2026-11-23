@@ -135,7 +135,7 @@ Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to 
 **Answer:** "Basta excluir da lista de motoristas. Este vídeo explica bem: https://www.loom.com/share/2e77d84c328f4edd914f1965217a3188" (new video, Vasco 18 Nov 2026; the old one e3b1a53e… shows a 3-dots menu that no longer exists)
 
 ### "Qual a diferença entre Aluguer e Aluguer proprietário?"
-**Aluguer** = what's charged to the driver for using the vehicle (subtracted). **Aluguer proprietário** = a feature to **pay the vehicle's owner directly** the amount charged to the driver in Aluguer. Only applies when the **vehicle owner is not the fleet**. The owner of each vehicle is set on the **Viaturas** page (confirmed by Vasco, 23 Nov 2026).
+**Aluguer** = what's charged to the driver for using the vehicle (subtracted). **Aluguer proprietário** = a feature to **pay the vehicle's owner directly** the amount charged to the driver in Aluguer. Only applies when the **vehicle owner is not the fleet**. The owner of each vehicle is set on the **Viaturas** page (confirmed by Vasco, 23 Nov 2026). **If the owner is an investor (not a driver yet), first create him manually in the Motoristas tab** (add-driver video https://www.loom.com/share/17e078ab4704434eb72a6616adb43f91), then set him as owner in Viaturas (confirmed by Vasco, 23 Nov 2026).
 **Answer:** "O Aluguer é o valor que é descontado ao motorista pelo uso da viatura. O Aluguer proprietário serve para pagar diretamente ao dono da viatura o valor cobrado ao motorista no Aluguer. Só se aplica quando o dono da viatura não é a frota. Pode indicar quem é o proprietário de cada viatura na página Viaturas."
 
 ### "Um motorista deixou o carro alugado com outro motorista" / "como passo o aluguer para outro motorista?"
