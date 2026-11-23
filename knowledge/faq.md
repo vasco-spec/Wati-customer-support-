@@ -430,3 +430,6 @@ Customers whose HubSpot **deal** has original traffic source **AI Referral** (`h
 How to check: count the subscription invoices with `ver_fatura_galgosheets_mes` (month by month; `ver_faturas_subscricao` may come back empty). If an invoice was issued for the 2nd or 3rd month, it's our mistake: say so, apologise, and **ask for the customer's IBAN so we can refund it**. Tell Vasco in #cs so the next free month isn't charged too (confirmed by Vasco, 22 Nov 2026). If the customer prefers not to cancel the invoice, we can instead give the next months free: ask the finance session to pause the GoCardless subscription of that HubSpot deal for those months (confirmed by Vasco, 22 Nov 2026).
 
 If the source is not AI Referral, don't confirm any free months: holding reply + ping Vasco.
+
+### "No relatório/cálculo só aparece a percentagem (ex.: Slot 10%), não aparece o valor em €"
+It's a display setting. In **Calcular Pagamentos → Cálculo**, the settings button next to the search (Visualização) has the toggle **"% em €"**: it shows the euro equivalent next to each column in %. Turn it on (the customer can do it, or the team does it). Answer: "No separador Cálculo, no botão de definições ao lado da pesquisa, ative a opção "% em €". Assim aparece o valor em euros ao lado da percentagem." (confirmed by Vasco, 23 Nov 2026)
