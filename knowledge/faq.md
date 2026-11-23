@@ -134,6 +134,10 @@ Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to 
 ### "Como excluo/apago um motorista que já não trabalha comigo?"
 **Answer:** "Basta excluir da lista de motoristas. Este vídeo explica bem: https://www.loom.com/share/2e77d84c328f4edd914f1965217a3188" (new video, Vasco 18 Nov 2026; the old one e3b1a53e… shows a 3-dots menu that no longer exists)
 
+### "Qual a diferença entre Aluguer e Aluguer proprietário?"
+**Aluguer** = what's charged to the driver for using the vehicle (subtracted). **Aluguer proprietário** = a feature to **pay the vehicle's owner directly** the amount charged to the driver in Aluguer. Only applies when the **vehicle owner is not the fleet**. The owner of each vehicle is set on the **Viaturas** page (confirmed by Vasco, 23 Nov 2026).
+**Answer:** "O Aluguer é o valor que é descontado ao motorista pelo uso da viatura. O Aluguer proprietário serve para pagar diretamente ao dono da viatura o valor cobrado ao motorista no Aluguer. Só se aplica quando o dono da viatura não é a frota. Pode indicar quem é o proprietário de cada viatura na página Viaturas."
+
 ### "Um motorista deixou o carro alugado com outro motorista" / "como passo o aluguer para outro motorista?"
 **Any change to a rent charge is always made on the Cálculo page, column Aluguer** (confirmed by Vasco, 23 Nov 2026). Change the value there for the drivers involved in those weeks. If the customer actually needs to spread an amount over several weeks, that's a **parcelamento**: send the two Mapa de Parcelamentos videos.
 **Answer:** "Para isso, basta alterar o valor do aluguer na página Cálculo, na coluna Aluguer, para os motoristas em causa nestas semanas."
