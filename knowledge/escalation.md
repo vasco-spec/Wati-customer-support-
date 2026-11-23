@@ -101,6 +101,7 @@ Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram")
 - **Cancellations, refunds, billing disputes, payment failures.**
 - **Values that don't match** after the standard explanation (send the driver's name and week).
 - **Configuration changes** to a fleet account (IVA mode, slot, commission, columns).
+- **Adapting a fleet's formulas** (e.g. "Estas colunas não estão na fórmula do total: POP Líquido", adding a platform/column to the Total) is **always Vasco**, never Raffa: tag Vasco in #cs (confirmed by Vasco, 23 Nov 2026).
 - Accounting or tax advice beyond the FAQ, and booking the accountant.
 - Angry customers, legal or GDPR requests, anything about another customer.
 - Prices and commercial offers (until a price list exists).
