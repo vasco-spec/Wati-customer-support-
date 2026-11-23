@@ -64,3 +64,4 @@ These are the videos the team already sends to customers, collected from WhatsAp
 - https://www.loom.com/share/6aef3088b4b34e049aa20a846eabfe05 (about installments still due?)
 - https://www.loom.com/share/6dd146838b8d42f982e8578c48d7c48e
 - https://www.loom.com/share/f46f28e4b6dd42cbb25849582b01cd9f
+| Reset the app password (we never handle passwords) | https://www.loom.com/share/cc4433e5285e4efc82728803ad245883 | new |

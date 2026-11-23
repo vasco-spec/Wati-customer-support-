@@ -21,7 +21,7 @@ When the customer changes a platform password, our sync stops. Someone on the te
 ➡️ Escalate to whoever handles integrations (see escalation.md). ⚠️ How should customers send the new password? Today it often comes through WhatsApp.
 
 ### "Qual é a minha senha?" / "esqueci-me da password"
-**We don't handle passwords.** Send the customer the video on how to reset the password (confirmed by Vasco, 23 Nov 2026). ⚠️ Video link: ask Vasco (not in the Loom sheet yet).
+**We don't handle passwords.** Send the customer the video on how to reset the password (confirmed by Vasco, 23 Nov 2026). **Answer:** "Por segurança não temos acesso às senhas. Pode redefinir a sua senha facilmente: este vídeo mostra como https://www.loom.com/share/cc4433e5285e4efc82728803ad245883"
 
 ### "Não consigo entrar na plataforma" / "a senha não dá"
 ➡️ Check whether they're using the new back office and still have the initial password. **Don't send passwords in the chat.** Escalate so the team can reset it.
