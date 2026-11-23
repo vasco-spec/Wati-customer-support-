@@ -360,6 +360,10 @@ Standing rule (Vasco, 20 Nov 2026): answer without asking first.
 - Not interested / auto-replies → no answer.
 - Anything else (a specific tax problem, a bill, a deadline) → draft and ask Vasco.
 
+### "O recibo verde só se emite quando recebo algo da frota?" (driver ended weeks owing money)
+Yes: a recibo verde is only issued when there is something to receive. No amount received → no recibo verde (confirmed by Vasco, 23 Nov 2026). Don't escalate to the accountant.
+**Answer:** "Sim. O recibo verde só se emite quando tem algum valor a receber da [frota]. Se nessas semanas ficou a dever e não recebeu nada, não há recibo verde a emitir."
+
 ### "O que conta para o limite de 15.000€ do regime de isenção de IVA?"
 Recibos verdes **and** invoices issued in the person's individual name (confirmed by Sandra, accountant, 20 Nov 2026).
 **Answer:** "Para o limite de 15.000€ do regime de isenção contam os recibos verdes e também as faturas emitidas em seu nome individual."
