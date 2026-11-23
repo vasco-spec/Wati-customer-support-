@@ -221,6 +221,10 @@ There's no export button yet. For now, print the page from the browser and save 
 ### "Porque é que a caução acumulada deste motorista está com este valor?"
 Open the **Mapa de Cauções** and click on the driver: it shows each movement, including values **added manually** (e.g. a manual 270,60€ that pushed the total above the maximum). Answer: "Para ver o que se passa com as cauções basta entrar no Mapa de Cauções e carregar em cima do motorista." (confirmed by Vasco, 16 Nov 2026)
 
+### "Quero cancelar/retirar a caução de um motorista" (e.g. set to 500€, at 250€, deleting doesn't stick)
+Two places: (1) **Mapa de Cauções**: delete the caução value registered in the **previous week**; (2) **Veículos e Cartões**: clear the driver's **Caução Semanal** and **Caução Total** columns (confirmed by Vasco, 23 Nov 2026).
+**Answer:** "Para cancelar a caução desse motorista: 1. No Mapa de Cauções, apague o valor da caução registado na semana anterior. 2. Em Veículos e Cartões, apague os valores das colunas Caução Semanal e Caução Total desse motorista."
+
 ### "Como ponho uma caução faseada (ex: 50€/semana) num motorista novo?"
 - **Usual way (lead with this):** go to the **Mapa de Cauções** and register the deposit in the column of the **week being paid** (e.g. "09/11" when paying on 16/11). It becomes available from the following week.
 - **Second option:** if the driver was added through **"Registar auto"**, the deposit can also be set up there.
