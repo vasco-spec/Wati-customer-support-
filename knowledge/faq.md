@@ -250,7 +250,7 @@ Add the installments **manually in the Mapa de Parcelamentos**, then **delete th
 **Answer:** "Para perceber como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 — e para editar manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
 
 ### "Este cartão (Prio/combustível) não aparece" / "não o encontro para associar"
-**If a card isn't present, it's because it has no consumption** registered yet. Once it has consumption, it appears and can be assigned to the driver in Veículos e Cartões (confirmed by Vasco, 23 Nov 2026).
+**If a card isn't present, it's because it has no consumption** registered yet. Once it has consumption, it appears and can be assigned to the driver in Veículos e Cartões (confirmed by Vasco, 23 Nov 2026). **If the card does have consumption, it is in GalgoSheets**: it's probably already assigned to a driver, so the customer can't find it in the unassigned list. Ask Vasco to look it up in the account and tell the customer which driver it's on (e.g. "o cartão já está associado ao motorista X").
 **Answer:** "Se o cartão não aparece para associar, é porque ainda não tem consumos registados no sistema. Assim que tiver consumos, o cartão aparece e pode associá-lo ao motorista."
 
 ### "O motorista usa 2 carros/cartões" / "carro partilhado"
