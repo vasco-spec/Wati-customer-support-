@@ -128,7 +128,7 @@ Uber + Bolt duplicates: the **customer merges them himself**. Don't escalate to 
 **Answer:** "Basta excluir da lista de motoristas. Este vídeo explica bem: https://www.loom.com/share/2e77d84c328f4edd914f1965217a3188" (new video, Vasco 18 Nov 2026; the old one e3b1a53e… shows a 3-dots menu that no longer exists)
 
 ### "Um motorista deixou o carro alugado com outro motorista" / "como passo o aluguer para outro motorista?"
-Change the rent value directly on the **Cálculo** page, column **Aluguer**, for the drivers involved in those weeks (confirmed by Vasco, 23 Nov 2026).
+**Any change to a rent charge is always made on the Cálculo page, column Aluguer** (confirmed by Vasco, 23 Nov 2026). Change the value there for the drivers involved in those weeks. If the customer actually needs to spread an amount over several weeks, that's a **parcelamento**: send the two Mapa de Parcelamentos videos.
 **Answer:** "Para isso, basta alterar o valor do aluguer na página Cálculo, na coluna Aluguer, para os motoristas em causa nestas semanas."
 
 ### "O saldo/dívida da semana passada é calculado automaticamente?"
