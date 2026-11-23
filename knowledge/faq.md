@@ -20,6 +20,9 @@ When the customer changes a platform password, our sync stops. Someone on the te
 **Answer:** "Como a password foi alterada, precisamos de voltar a ligar a sua conta [Uber] ao GalgoSheets. Isto é feito manualmente pela nossa equipa: vamos pedir o acesso e nessa altura vai receber um código por SMS — é só enviar-nos. Combinamos consigo a hora para estar disponível."
 ➡️ Escalate to whoever handles integrations (see escalation.md). ⚠️ How should customers send the new password? Today it often comes through WhatsApp.
 
+### "Qual é a minha senha?" / "esqueci-me da password"
+**We don't handle passwords.** Send the customer the video on how to reset the password (confirmed by Vasco, 23 Nov 2026). ⚠️ Video link: ask Vasco (not in the Loom sheet yet).
+
 ### "Não consigo entrar na plataforma" / "a senha não dá"
 ➡️ Check whether they're using the new back office and still have the initial password. **Don't send passwords in the chat.** Escalate so the team can reset it.
 **Answer:** "Vamos verificar o seu acesso e já lhe dizemos alguma coisa."
