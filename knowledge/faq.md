@@ -436,3 +436,6 @@ It's a display setting. In **Calcular Pagamentos → Cálculo**, the settings bu
 
 ### "Carreguei o ficheiro da Alves Bandeira / Solred e não reconhece nada"
 The fuel-card file upload (Alves Bandeira / Solred "Movimentos por Faturar") only accepts **CSV**, not Excel (.xlsx). Answer: "O ficheiro tem de ser carregado em formato CSV (não Excel). Basta atualizar a página e voltar a carregar o ficheiro em CSV." (confirmed by Vasco, 23 Nov 2026)
+
+### "Aparece um ID (ex.: ID504) com o nome da empresa em todas as tabs"
+It appears when **Uber paid money directly to the company** that week (not to a driver), so the company shows up as if it were a driver. Answer: "O ID com o nome da empresa aparece porque esta semana a Uber enviou dinheiro diretamente para a empresa. Por isso surge como se fosse um motorista." (confirmed by Vasco, 23 Nov 2026)
