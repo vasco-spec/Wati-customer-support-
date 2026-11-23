@@ -106,7 +106,7 @@ The car has had **no Via Verde charges** yet, so it wasn't added automatically. 
 **Answer (EN):** "The cars that are not showing are the ones with no Via Verde charges yet. Cars are added automatically when there are Via Verde charges on that plate." + "You can also add them manually: in the plates (Matrículas) column, open the dropdown for the driver and click \"+ Criar matrícula\"."
 
 ### "Troquei a matrícula mas a Via Verde continua a mostrar a matrícula antiga"
-Via Verde data is synchronised from Via Verde: **as long as a plate is present in the customer's Via Verde account, we keep importing it**. Ask what they mean by "changing" the plate and for an example (old plate, new plate, driver) (confirmed by Vasco, 23 Nov 2026).
+Via Verde data is synchronised from Via Verde: **as long as a plate is present in the customer's Via Verde account, we keep importing it**. Ask what they mean by "changing" the plate and for an example (old plate, new plate, driver) (confirmed by Vasco, 23 Nov 2026). **Once a plate is added it stays in the list for good; that doesn't mean there are charges on it.** Answer: "Depois de uma matrícula ser adicionada, ela fica sempre na lista. Isso não quer dizer que haja cobranças nessas matrículas."
 **Answer:** "Os dados da Via Verde são sincronizados diretamente da Via Verde: enquanto uma matrícula estiver presente na sua conta Via Verde, nós continuamos a importá-la. O que quer dizer exatamente com trocar a matrícula? Pode dar-nos um exemplo (a matrícula antiga, a nova e o motorista)?"
 
 ### "A matrícula é associada ao motorista automaticamente?"
