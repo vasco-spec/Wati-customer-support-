@@ -119,3 +119,9 @@ Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram")
 1. Reply to the customer so they know it's being handled ("Vamos verificar e já lhe dizemos alguma coisa" / "a nossa equipa vai tratar disto").
 2. Assign the conversation in Wati to the right person.
 3. Notify them on Slack: customer, issue in one line, what has already been told to the customer, and any deadline (e.g. when the 24h window closes).
+
+## Looking up a fleet's data (GalgoSheets_Support, read-only)
+- **Find the company:** `procurar_empresa` by legal name or NIF. The Wati company name is often a nickname (e.g. "Uber Novais", "Meyvip"): take `legal_name` / `vat` from the HubSpot deal and search with those.
+- **See the Total formula:** `ver_formulas_total(companyId, semana DD-MM-AAAA)` (week = Monday). Returns the stored expression and a readable version, e.g. `(uber Líquido − uber IVA + bolt Líquido − bolt IVA + pop Líquido − pop IVA) − (Slot)`. Use it to check which columns enter the Total (missing platform, % vs fixed slot, IVA terms) before escalating formula questions to Vasco (confirmed by Vasco, 23 Nov 2026).
+- Drivers: `procurar_motorista` (name/phone/email) → `estado` ativo/apagado; per-driver week result and report PDF: `ver_resultado_semana`, `ver_relatorio_semanal`.
+- It does **not** show imported platform rows (Uber/Bolt/POP/Prio values) — for those, ask Raffa.
