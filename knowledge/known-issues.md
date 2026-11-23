@@ -44,3 +44,5 @@
 - Sep 2026: "Slot/Aluguer" shown twice in the "Outros" box of the driver report. Fixed.
 
 | Customer can't find a platform / no "Adicionar Plataformas" button, data dates look months old | They're logged into the **old app** (`app-galgosheets.netlify.app`) | Send the new link: "Está a usar a versão antiga. Entre por aqui: https://galgosheets-backoffice-v2.netlify.app/platforms" (confirmed by Vasco, 23 Nov 2026) |
+
+**POP IVA = 0 with "IVA indicado pelas plataformas"** (bug, SCRUM-151): POP doesn't report the VAT it charged, so fleets on that IVA option get POP IVA = 0. Until fixed, Raffa corrects it manually: POP VAT computed by us on (bruto − gorjetas − portagens). Holding reply + tag Raffa in #cs (confirmed by Vasco, 23 Nov 2026).
