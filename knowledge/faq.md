@@ -33,7 +33,7 @@ When we log in to Segurança Social or Finanças for the customer, the site send
 ## 2. Data not updated / values don't match
 
 ### Platform status boxes (top of Calcular Pagamentos)
-Each source (Bolt, Uber, Prio, Prio Electric, Via Verde…) has a box. **Green "Ver dados"** = that week's data is imported. **Yellow/orange ("Sem dados")** = not synchronised yet: the customer just needs to wait and refresh the page. On Monday morning Uber/Bolt should be ready before 10:00 (see known-issues.md). Confirmed by Vasco, 16 Nov 2026.
+Each source (Bolt, Uber, Prio, Prio Electric, Via Verde…) has a box. **Green "Ver dados"** = that week's data is imported. **Yellow/orange ("Sem dados")**: only **Uber** takes time to synchronise on Monday morning (ready before 10:00, see known-issues.md): wait and atualizar a página. **Every other source (Bolt, POP, Via Verde, Prio…) syncs when the customer logs in**: if it isn't green, that source **has no data** for the week (e.g. no trips/charges), not "still syncing" (confirmed by Vasco, 23 Nov 2026).
 
 ### "Como adiciono os dados manualmente?" (platform/fuel supplier without integration, e.g. Alves Bandeira)
 In **Plataformas**, these platforms show "Upload manual" with an upload button and "Atualizado até <date>".
