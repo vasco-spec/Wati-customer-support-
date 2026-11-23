@@ -185,6 +185,10 @@ Yes, we can send the fleet's message to all its drivers by WhatsApp, but each me
 Cause: **something was changed in Cálculo after the report was sent, and the report wasn't generated again** (confirmed by Vasco, 23 Nov 2026). Past weeks can't be edited; to correct a difference, enter it manually in the **current week** on the driver's column, then generate the report.
 **Answer:** "Isso acontece quando é feita uma alteração no Cálculo depois de o relatório ter sido enviado, e o relatório não é gerado novamente. Os relatórios não se atualizam sozinhos." + "A semana de [data] já não pode ser alterada, mas se precisar de corrigir alguma diferença, pode lançá-la manualmente na semana atual, na coluna do motorista, e depois gerar o relatório."
 
+### "Falta o relatório de um motorista" / a report is missing in Relatórios
+In **Relatórios**, click the **3 dots** next to the search → **"Atualizar relatórios"** (confirmed by Vasco, 23 Nov 2026). Send the screenshot `knowledge/images/relatorios-atualizar.png`.
+**Answer:** "Para isso, vá a Relatórios, clique nos 3 pontinhos ao lado da pesquisa e escolha "Atualizar relatórios"." (EN: "Go to Relatórios, click the 3 dots next to the search and choose "Atualizar relatórios".")
+
 ### "Alterei X mas o relatório continua igual"
 **Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, atualize a página e gere o relatório outra vez."
 
