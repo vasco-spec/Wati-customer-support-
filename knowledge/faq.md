@@ -433,3 +433,6 @@ If the source is not AI Referral, don't confirm any free months: holding reply +
 
 ### "No relatório/cálculo só aparece a percentagem (ex.: Slot 10%), não aparece o valor em €"
 It's a display setting. In **Calcular Pagamentos → Cálculo**, the settings button next to the search (Visualização) has the toggle **"% em €"**: it shows the euro equivalent next to each column in %. Turn it on (the customer can do it, or the team does it). Answer: "No separador Cálculo, no botão de definições ao lado da pesquisa, ative a opção "% em €". Assim aparece o valor em euros ao lado da percentagem." (confirmed by Vasco, 23 Nov 2026)
+
+### "Carreguei o ficheiro da Alves Bandeira / Solred e não reconhece nada"
+The fuel-card file upload (Alves Bandeira / Solred "Movimentos por Faturar") only accepts **CSV**, not Excel (.xlsx). Answer: "O ficheiro tem de ser carregado em formato CSV (não Excel). Basta atualizar a página e voltar a carregar o ficheiro em CSV." (confirmed by Vasco, 23 Nov 2026)
