@@ -105,6 +105,10 @@ Yes. Vehicles are **added automatically** when they appear in Via Verde **and th
 The car has had **no Via Verde charges** yet, so it wasn't added automatically. The customer can add it manually: in the **Matrículas** column, open the driver's plate dropdown and click **"+ Criar matrícula"**. (Confirmed by Vasco, 19 Nov 2026.)
 **Answer (EN):** "The cars that are not showing are the ones with no Via Verde charges yet. Cars are added automatically when there are Via Verde charges on that plate." + "You can also add them manually: in the plates (Matrículas) column, open the dropdown for the driver and click \"+ Criar matrícula\"."
 
+### "Troquei a matrícula mas a Via Verde continua a mostrar a matrícula antiga"
+Via Verde data is synchronised from Via Verde: **as long as a plate is present in the customer's Via Verde account, we keep importing it**. Ask what they mean by "changing" the plate and for an example (old plate, new plate, driver) (confirmed by Vasco, 23 Nov 2026).
+**Answer:** "Os dados da Via Verde são sincronizados diretamente da Via Verde: enquanto uma matrícula estiver presente na sua conta Via Verde, nós continuamos a importá-la. O que quer dizer exatamente com trocar a matrícula? Pode dar-nos um exemplo (a matrícula antiga, a nova e o motorista)?"
+
 ### "A matrícula é associada ao motorista automaticamente?"
 **No.** Associating plates to drivers is part of **payments** (not vehicle management) and is done **manually in Veículos e Cartões, under the Calcular Pagamentos tab**. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Não, a matrícula não é associada automaticamente ao motorista. Isso é feito manualmente em Veículos e Cartões, no separador Calcular Pagamentos."
