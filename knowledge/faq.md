@@ -181,6 +181,10 @@ Yes, we can send the fleet's message to all its drivers by WhatsApp, but each me
 **Answer:** "Podemos enviar este comunicado a todos os motoristas por WhatsApp. Cada mensagem tem um custo de 0,045€ (é o valor que o WhatsApp nos cobra). Quer avançar?"
 **If they want it inside the report instead:** only a **short fixed text at the bottom of the report** is possible (one or two sentences), not a long notice. Ask them for a short version. (Vasco, 19 Nov 2026.) Adding the text is **standard procedure for the account manager** (e.g. Milton), not a tech task: don't send it to Raffa (Vasco, 19 Nov 2026).
 
+### "O Cálculo não bate com o relatório" (e.g. a past week)
+Cause: **something was changed in Cálculo after the report was sent, and the report wasn't generated again** (confirmed by Vasco, 23 Nov 2026). Past weeks can't be edited; to correct a difference, enter it manually in the **current week** on the driver's column, then generate the report.
+**Answer:** "Isso acontece quando é feita uma alteração no Cálculo depois de o relatório ter sido enviado, e o relatório não é gerado novamente. Os relatórios não se atualizam sozinhos." + "A semana de [data] já não pode ser alterada, mas se precisar de corrigir alguma diferença, pode lançá-la manualmente na semana atual, na coluna do motorista, e depois gerar o relatório."
+
 ### "Alterei X mas o relatório continua igual"
 **Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, atualize a página e gere o relatório outra vez."
 
