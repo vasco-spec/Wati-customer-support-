@@ -184,6 +184,10 @@ Yes, we can send the fleet's message to all its drivers by WhatsApp, but each me
 ### "Alterei X mas o relatório continua igual"
 **Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, atualize a página e gere o relatório outra vez."
 
+### "Não vejo o desconto de X" / "o relatório não mostra a cobrança" (charge made in an earlier week)
+Check in which week it was charged (Mapa de Cauções / Dívidas shows the week). Then tell the customer to **open that past week in the week selector** (top right of Calcular Pagamentos → Cálculo, "Modo consulta") and look at the column/report there. Always point customers to the past-week selector for this kind of question (confirmed by Vasco, 23 Nov 2026).
+**Answer (example):** "No Cálculo, no seletor de semanas (canto superior direito), escolha a semana de 26/10/2026 e pesquise o motorista. Vai ver na coluna Caução (€) os 20,00 € cobrados nessa semana. O relatório dessa semana também está disponível aí."
+
 ### "Como vejo relatórios / pagamentos de semanas passadas?"
 **Answer:** "Basta ir a Cálculo de Pagamentos e selecionar a semana que quer analisar. Este vídeo explica bem: https://www.loom.com/share/f6921e3c20b44f65a680d1c89993509b"
 
