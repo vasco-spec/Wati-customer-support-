@@ -125,3 +125,6 @@ Wati also receives **Instagram** DMs (conversation `channel.type` = "instagram")
 - **See the Total formula:** `ver_formulas_total(companyId, semana DD-MM-AAAA)` (week = Monday). Returns the stored expression and a readable version, e.g. `(uber Líquido − uber IVA + bolt Líquido − bolt IVA + pop Líquido − pop IVA) − (Slot)`. Use it to check which columns enter the Total (missing platform, % vs fixed slot, IVA terms) before escalating formula questions to Vasco (confirmed by Vasco, 23 Nov 2026).
 - Drivers: `procurar_motorista` (name/phone/email) → `estado` ativo/apagado; per-driver week result and report PDF: `ver_resultado_semana`, `ver_relatorio_semanal`.
 - It does **not** show imported platform rows (Uber/Bolt/POP/Prio values) — for those, ask Raffa.
+
+### Customer asks for new columns / a formula change
+Before passing it to Vasco, ask the customer: (1) what each column does: **adds or subtracts** from the driver's total; (2) whether the values are **entered manually** or need an **automation** (e.g. a % of Uber/Bolt revenue). Then read the current formula (`ver_formulas_total`) and send it to Vasco with the answers (confirmed by Vasco, 23 Nov 2026).
