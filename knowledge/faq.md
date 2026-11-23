@@ -1,6 +1,6 @@
 # FAQ: recurring questions and how we answer
 
-Customer questions are shown in Portuguese, as customers write them. **Answers** are in Portuguese, written the way the team answers: short, friendly, "você" form, and no emojis (see escalation.md › Team conventions). ➡️ marks what to do internally.
+Customer questions are shown in Portuguese, as customers write them. **Answers** are in Portuguese, written the way the team answers: short, friendly, "você" form, and no emojis (see escalation.md › Team conventions). **"Refresh" in customer messages is always "atualizar a página"** (PT-PT and PT-BR), never "fazer refresh" (confirmed by Vasco, 23 Nov 2026). ➡️ marks what to do internally.
 
 > Rule: if the answer needs someone to look at the customer's account, change data, or log in to a platform, **don't invent a fix**. Tell the customer the team will look at it, and escalate (see escalation.md).
 
@@ -81,7 +81,7 @@ Send the Loom showing how to change the vehicle in **Veículos e Cartões**: htt
 
 ### "A Uber/Bolt/Prio ainda não atualizou" / "valores a zero"
 First check the platform status boxes (above): on Monday morning a yellow box usually just means wait and refresh. Otherwise the integration needs a new login (code) or the data is delayed.
-**Answer:** "Vamos ver a sua conta agora." ➡️ Escalate. Once fixed: "Já está, pode fazer refresh à página e calcular os pagamentos."
+**Answer:** "Vamos ver a sua conta agora." ➡️ Escalate. Once fixed: "Já está, pode atualizar a página e calcular os pagamentos."
 
 ### "O valor da Uber não bate certo com o que vejo na Uber"
 **Answer:** "Os valores que importamos vêm dos relatórios da Uber. Quando há diferenças face à página de Rendimentos, normalmente são ajustes de semanas anteriores ou devoluções. Confirme por favor que selecionou exatamente o mesmo período (no calendário escolha 'Personalizado' com as datas da semana)."
@@ -161,7 +161,7 @@ Yes, we can send the fleet's message to all its drivers by WhatsApp, but each me
 **If they want it inside the report instead:** only a **short fixed text at the bottom of the report** is possible (one or two sentences), not a long notice. Ask them for a short version. (Vasco, 19 Nov 2026.) Adding the text is **standard procedure for the account manager** (e.g. Milton), not a tech task: don't send it to Raffa (Vasco, 19 Nov 2026).
 
 ### "Alterei X mas o relatório continua igual"
-**Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, faça refresh à página e gere o relatório outra vez."
+**Answer:** "Os relatórios não se atualizam sozinhos: depois de qualquer alteração, atualize a página e gere o relatório outra vez."
 
 ### "Como vejo relatórios / pagamentos de semanas passadas?"
 **Answer:** "Basta ir a Cálculo de Pagamentos e selecionar a semana que quer analisar. Este vídeo explica bem: https://www.loom.com/share/f6921e3c20b44f65a680d1c89993509b"

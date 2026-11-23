@@ -44,7 +44,7 @@ Anything outside these rules still needs approval.
   - Follow-ups in the thread: one short line too.
 
   **Before every re-tag**, check two things: (1) the **Wati conversation**, because the team often answers the customer there directly without writing in Slack; (2) the **emoji reactions** on our #cs messages (e.g. 👀/✅ = seen/handling). If either shows it's being handled, don't re-tag (Raffa, 17 Nov 2026).
-  **Reaction meanings:** 👀 = the team member is on it but it's **not solved** yet (don't re-tag, don't tell the customer it's fixed). ✅ = **solved**: send the customer a short confirmation (e.g. "Já está resolvido. Basta fazer refresh à página.") (Vasco, 19 Nov 2026; ⚠️ waiting for Raffa to confirm the convention — until he does, ask him in the thread before telling the customer).
+  **Reaction meanings:** 👀 = the team member is on it but it's **not solved** yet (don't re-tag, don't tell the customer it's fixed). ✅ = **solved**: send the customer a short confirmation (e.g. "Já está resolvido. Basta atualizar a página.") (Vasco, 19 Nov 2026; ⚠️ waiting for Raffa to confirm the convention — until he does, ask him in the thread before telling the customer).
 
   **Follow-up:** if there's no answer within **10 minutes**, tag them again in the same thread, and keep doing so every 10 minutes until they say it's solved or the Wati conversation shows it's fully solved.
 - **One Slack message per case:** put everything (details, priority, extra questions) in a single message. Don't send several in a row (Raffa, 16 Nov 2026). If something new comes up later, one new message is fine.
