@@ -196,6 +196,7 @@ There's no counter for this. In the payments table, click the arrows on the colu
 ⚠️ If customers ask for this often, consider adding a counter (feature request).
 
 ### "Os bónus/devoluções/rendas da semana anterior passam para a nova semana" / "Como apago os valores de uma coluna?"
+**Rule:** any value in an **editable column on Cálculo** that is **not** Dívida, Caução or Parcelamento (e.g. Aluguer, Slot, bónus, seguros) **keeps the same value week after week until the user changes it**. So "fica automático para todas as semanas?" → yes (confirmed by Vasco, 23 Nov 2026).
 Values that **don't come from a platform** (bonuses, refunds, rents, insurance, other manual columns) stay in the column until they're cleared. To reset them, the customer clears the column: **click the 3 dots at the top of the column → "Limpar coluna"**. All values in that column are removed. (Confirmed by Vasco, Nov 2026.)
 **Answer:** "Para limpar os valores de bónus, devoluções, rendas, seguros e outros dados que não vêm das plataformas, basta limpar a coluna: no topo da coluna, clique nos 3 pontinhos e escolha a opção 'Limpar coluna'. Todos os valores dessa coluna ficam apagados. Pode fazer isto sempre que iniciar o cálculo de uma nova semana."
 
@@ -247,6 +248,10 @@ Add the installments **manually in the Mapa de Parcelamentos**, then **delete th
 
 ### "Como faço parcelamentos?"
 **Answer:** "Para perceber como funciona o Mapa de Parcelamentos: https://www.loom.com/share/54f4510e203940308d50368ef019b3c8 — e para editar manualmente: https://www.loom.com/share/08d3bd480b18479aaff6d926928f0d7d"
+
+### "Este cartão (Prio/combustível) não aparece" / "não o encontro para associar"
+**If a card isn't present, it's because it has no consumption** registered yet. Once it has consumption, it appears and can be assigned to the driver in Veículos e Cartões (confirmed by Vasco, 23 Nov 2026).
+**Answer:** "Se o cartão não aparece para associar, é porque ainda não tem consumos registados no sistema. Assim que tiver consumos, o cartão aparece e pode associá-lo ao motorista."
 
 ### "O motorista usa 2 carros/cartões" / "carro partilhado"
 **Answer:** "Isso configura-se facilmente em Veículos e Cartões — basta atribuir o cartão/matrícula ao motorista certo. Este vídeo explica (a partir do minuto 0:43): https://www.loom.com/share/247137ff644847fb845bc8d68fc08f88"
