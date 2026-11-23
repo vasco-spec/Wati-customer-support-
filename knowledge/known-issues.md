@@ -42,3 +42,5 @@
 
 - Sep 2026: weekly charges in months with 5 weeks only billed 4 weeks for some drivers. Corrected manually that week. ⚠️ Confirm it's fully fixed.
 - Sep 2026: "Slot/Aluguer" shown twice in the "Outros" box of the driver report. Fixed.
+
+| Customer can't find a platform / no "Adicionar Plataformas" button, data dates look months old | They're logged into the **old app** (`app-galgosheets.netlify.app`) | Send the new link: "Está a usar a versão antiga. Entre por aqui: https://galgosheets-backoffice-v2.netlify.app/platforms" (confirmed by Vasco, 23 Nov 2026) |
