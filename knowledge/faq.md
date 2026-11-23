@@ -45,6 +45,9 @@ POP is supported. In Plataformas (https://galgosheets-backoffice-v2.netlify.app/
 ### "Adicionei a POP mas diz 'Upload manual'. O que quer dizer?"
 POP has no automatic integration: it works by file upload, but **we do the upload for the customer**. **Answer:** "Quer dizer que a POP funciona por carregamento de ficheiro, mas somos nós que tratamos disso. Não precisa de fazer nada." (confirmed by Vasco, 17 Nov 2026)
 
+### "O valor da POP não bate certo" / POP Bruto lower than expected
+POP amounts can include **cancellation fees** for trips that didn't happen. Example: one trip plus a 3,50 € cancellation fee for another gives 4,25 €. Check the trips before escalating (confirmed by Vasco, 23 Nov 2026).
+
 ### "A POP (ou outra plataforma) indica que ainda não está sincronizada"
 If the fleet had **no trips** on that platform that week, it's normal for it to show as not synchronised. **Answer:** "Teve viagens na POP esta semana? Se não teve, é normal aparecer como não sincronizada." (Vasco, 16 Nov 2026)
 
