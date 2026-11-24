@@ -220,7 +220,7 @@ Values that **don't come from a platform** (bonuses, refunds, rents, insurance, 
 **Answer:** "Para limpar os valores de bónus, devoluções, rendas, seguros e outros dados que não vêm das plataformas, basta limpar a coluna: no topo da coluna, clique nos 3 pontinhos e escolha a opção 'Limpar coluna'. Todos os valores dessa coluna ficam apagados. Pode fazer isto sempre que iniciar o cálculo de uma nova semana."
 
 ### "Como corrijo/limpo dívidas ou valores negativos?" / "de onde vem esta dívida?"
-**Answer:** "Pode gerir as dívidas manualmente no Mapa de Dívidas — este vídeo explica bem: https://www.loom.com/share/4b80573326ea4fc89eb6e134a4862d6f. Para perceber de onde vem um valor, comece pelo Histórico de Pagamentos do motorista."
+**Answer:** "Pode gerir as dívidas manualmente no Mapa de Dívidas — este vídeo explica bem: https://www.loom.com/share/4b80573326ea4fc89eb6e134a4862d6f. Para perceber de onde vem um valor, comece pelo Histórico de Pagamentos do motorista." **A debt or payment can only be registered in the Mapa de Dívidas on the previous week**, not on older weeks (confirmed by Vasco, 24 Nov 2026).
 Extra: when a driver ends a week negative, the debt carries over to the next week automatically.
 
 ### "Porque é que o sistema devolveu/pagou X€ a um motorista?"
