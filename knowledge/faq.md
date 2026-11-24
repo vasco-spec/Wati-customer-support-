@@ -441,7 +441,7 @@ Send the **driver app link** and say a **salesperson will get in touch** to arra
 ## 7. Sales, subscription and billing
 
 ### "Qual o preço? Têm período de teste?"
-➡️ **Prices (confirmed by Vasco, 24 Nov 2026): all our prices exclude VAT (+23%). Minimum 32 € /month; 2 € per driver per week, plus VAT.** Always add that VAT is deductible, so it is not a cost for the company. For new leads still offer the demo call (Milton).
+➡️ **Prices (confirmed by Vasco, 24 Nov 2026): all our prices exclude VAT (+23%). Minimum 32 € /month; 2 € per driver per week, plus VAT.** Always add that VAT is deductible, so it is not a cost for the company. For new leads still offer the demo call (Milton). **A customer's current monthly amount: always check the HubSpot deal `amount` (ex-VAT); HubSpot is the ground truth** (confirmed by Vasco, 24 Nov 2026).
 **Answer:** "Podemos marcar uma chamada rápida de demonstração para lhe mostrar a plataforma e explicar os preços. Que horário lhe dá jeito?"
 
 ### "Têm app para iOS/Android?" (fleet back office)
