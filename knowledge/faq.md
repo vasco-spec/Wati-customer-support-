@@ -455,7 +455,7 @@ Our invoices (the GalgoSheets subscription) are in the **Contabilidade** tab of 
 **Answer:** "Não se preocupe, não tem de fazer nada — recebeu um email a informar que mudou a entidade que faz as cobranças."
 
 ### "Recebi um email da GoCardless: a subscrição aumentou. Porquê?"
-The subscription price is **adjusted automatically to the fleet size** (number of active drivers over the last month or so). It goes up when the fleet grows and **goes down automatically** when drivers leave. Customers with us for more than a year get a 1-driver discount. Holding reply on the first message, then Vasco answers (he asks how many active drivers they have). If the customer threatens to cancel over the increase, it's usually a negotiation: Vasco may ask Milton to offer the 6-month plan. (Confirmed by Vasco, 24 Nov 2026)
+The subscription price is **adjusted automatically to the fleet size** (number of active drivers over the last month or so). It goes up when the fleet grows and **goes down automatically** when drivers leave. Customers with us for more than a year get a 1-driver discount. Holding reply on the first message, then Vasco answers (he asks how many active drivers they have). If the customer threatens to cancel over the increase, it's usually a negotiation: Vasco may ask Milton to offer the 6-month plan: **20% discount on the monthly fee for a 6-month subscription**. (Confirmed by Vasco, 24 Nov 2026)
 **Answer:** "Esse valor é ajustado automaticamente em função do tamanho da frota (número de motoristas ativos). Se a frota diminuir, a subscrição também é ajustada automaticamente."
 
 ### "Não posso pagar por débito direto"
