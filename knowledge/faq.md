@@ -325,6 +325,8 @@ Meaning: on **commission**, the fleet takes a % of the platform net (after VAT) 
 
 ## 5. IVA, slot, commission (fleet configuration)
 
+**Drivers (or anyone who isn't the fleet owner) asking about the IVA or any calculation:** explain how their numbers were calculated (e.g. gross × 6/106), as we've done before. **NEVER mention the fleet's settings or choices** (no "opção", "configuração", "a frota escolheu", no Configurações path, no screenshot of the options). If they want clarification on how the fleet chose to do it, they must **contact the fleet owner** (confirmed by Vasco, 25 Nov 2026).
+
 ### "O IVA é cobrado sobre gorjetas e portagens?"
 **Answer (default setup):** "O IVA é cobrado apenas sobre o valor das viagens, não incide sobre gorjetas nem portagens." ➡️ This is configurable per fleet. Check if unsure.
 **If the fleet says tips are being included in the 6%** (e.g. a driver complains): it depends on the "Como cobrar o 6% de IVA das plataformas" option. Answer: "Isso depende da opção escolhida na sua conta. Em Configurações → separador "Cálculo de Pagamentos" → "Como cobrar o 6% de IVA das plataformas", se escolher "Ganhos Brutos excl. gorjetas e portagens" (ou "Ganhos Líquidos excl. gorjetas e portagens"), as gorjetas deixam de entrar no cálculo. Depois basta gravar: o IVA no Cálculo atualiza logo, e os relatórios têm de ser gerados de novo." If they already use an "excl. gorjetas" option, treat it as a mismatch (ask for the driver, the week and the correct value) (confirmed by Vasco, 16 Nov 2026).
