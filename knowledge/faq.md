@@ -325,7 +325,7 @@ Meaning: on **commission**, the fleet takes a % of the platform net (after VAT) 
 
 ## 5. IVA, slot, commission (fleet configuration)
 
-**Drivers (or anyone who isn't the fleet owner) asking about the IVA or any calculation:** explain how their numbers were calculated (e.g. gross × 6/106), as we've done before. **NEVER mention the fleet's settings or choices** (no "opção", "configuração", "a frota escolheu", no Configurações path, no screenshot of the options). If they want clarification on how the fleet chose to do it, they must **contact the fleet owner** (confirmed by Vasco, 25 Nov 2026).
+**Drivers (or anyone who isn't the fleet owner) asking about the IVA or how their payment is calculated:** **don't explain anything** on behalf of the fleet: no numbers, no method, and **NEVER the fleet's settings or choices**. Only tell them to contact the fleet owner: "Para esclarecimentos sobre os cálculos, deve falar diretamente com o <dono da frota>, o responsável da frota." Don't engage further (confirmed by Vasco, 25 Nov 2026).
 
 ### "O IVA é cobrado sobre gorjetas e portagens?"
 **Answer (default setup):** "O IVA é cobrado apenas sobre o valor das viagens, não incide sobre gorjetas nem portagens." ➡️ This is configurable per fleet. Check if unsure.
