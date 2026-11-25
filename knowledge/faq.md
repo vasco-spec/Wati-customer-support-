@@ -444,7 +444,7 @@ Send the **driver app link** and say a **salesperson will get in touch** to arra
 ➡️ **Prices (confirmed by Vasco, 24 Nov 2026): all our prices exclude VAT (+23%). Minimum 32 € /month; 2 € per driver per week, plus VAT.** Always add that VAT is deductible, so it is not a cost for the company. For new leads still offer the demo call (Milton). **A customer's current monthly amount: always check the HubSpot deal `amount` (ex-VAT); HubSpot is the ground truth** (confirmed by Vasco, 24 Nov 2026).
 
 ### "Têm viaturas paradas / precisam de motoristas" (driver placement)
-We can advertise the fleet's cars to the drivers in our base (approved template `driver_vehicle_announcement`: make/model, year, zone, rent). **Success fee: 10% of the first rent**, charged once and only if we place a driver (e.g. car at 250 €/week → 25 €). Ask for make and model, year, zone and rent per car (confirmed by Vasco, 24 Nov 2026). Any other question about this product (how the matching works, contacts, tracking): ask the **Product Management** session before answering (confirmed by Vasco, 25 Nov 2026).
+We can advertise the fleet's cars to the drivers in our base (approved template `driver_vehicle_announcement`: make/model, year, zone, rent). **Success fee: 10% of the first rent**, charged once and only if we place a driver (e.g. car at 250 €/week → 25 €). Ask for make and model, year, zone and rent per car (confirmed by Vasco, 24 Nov 2026).
 **Answer:** "Podemos marcar uma chamada rápida de demonstração para lhe mostrar a plataforma e explicar os preços. Que horário lhe dá jeito?"
 
 ### "Têm app para iOS/Android?" (fleet back office)
