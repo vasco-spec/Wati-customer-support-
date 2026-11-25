@@ -325,7 +325,10 @@ Meaning: on **commission**, the fleet takes a % of the platform net (after VAT) 
 
 ## 5. IVA, slot, commission (fleet configuration)
 
-**Drivers (or anyone who isn't the fleet owner) asking about the IVA or how their payment is calculated:** **don't explain anything** on behalf of the fleet: no numbers, no method, and **NEVER the fleet's settings or choices**. Only tell them to contact the fleet owner: "Para esclarecimentos sobre os cálculos, deve falar diretamente com o <dono da frota>, o responsável da frota." Don't engage further (confirmed by Vasco, 25 Nov 2026).
+**Drivers (or anyone who isn't the fleet owner) asking about their payment, the IVA or any calculation** (confirmed by Vasco, 25 Nov 2026):
+1. First ask **which fleet they work for**, and **wait for the fleet owner to acknowledge** that we can talk to them.
+2. Once the owner has acknowledged, the **only** thing we explain is the **simplified Total formula** (from `ver_formulas_total`, readable form, e.g. "Uber Líquido − IVA + Bolt Líquido − IVA − combustível − Via Verde − Aluguer − Dívida"), so the driver understands how the Total is reached.
+3. Anything else (how a value like the IVA is calculated, why, the fleet's settings or choices): **don't answer**. Tell them to contact the fleet: "Para esse esclarecimento, deve falar diretamente com a frota." **NEVER mention the fleet's settings or preferences.**
 
 ### "O IVA é cobrado sobre gorjetas e portagens?"
 **Answer (default setup):** "O IVA é cobrado apenas sobre o valor das viagens, não incide sobre gorjetas nem portagens." ➡️ This is configurable per fleet. Check if unsure.
