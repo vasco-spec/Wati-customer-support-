@@ -179,6 +179,7 @@ No. A finished handover (auto de entrega) can't be edited. The customer has to r
 ### "Podem enviar um comunicado nosso a todos os motoristas?" (e.g. with the Monday reports)
 Yes, we can send the fleet's message to all its drivers by WhatsApp, but each message costs **0,045€** (what WhatsApp charges us). Tell the customer the cost and ask if they want to go ahead. (Confirmed by Vasco, 19 Nov 2026.)
 **Answer:** "Podemos enviar este comunicado a todos os motoristas por WhatsApp. Cada mensagem tem um custo de 0,045€ (é o valor que o WhatsApp nos cobra). Quer avançar?"
+**Billing:** when Raffa posts in #cs how many messages were sent, ask the **Finance GalgoSheets** Claude session to charge the customer: number of messages × 0,045 € (+ VAT) (confirmed by Vasco, 25 Nov 2026).
 **If they want it inside the report instead:** only a **short fixed text at the bottom of the report** is possible (one or two sentences), not a long notice. Ask them for a short version. (Vasco, 19 Nov 2026.) Adding the text is **standard procedure for the account manager** (e.g. Milton), not a tech task: don't send it to Raffa (Vasco, 19 Nov 2026).
 
 ### "O Cálculo não bate com o relatório" (e.g. a past week)
