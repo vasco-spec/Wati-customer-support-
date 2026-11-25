@@ -39,6 +39,7 @@ Anything outside these rules still needs approval.
 - **Never ping anyone for password/credential issues** (wrong platform passwords, logins, verification codes). Bring them to the user (Vasco) in the session instead; he handles them.
 - **Only ping the team when it's needed:** if the answer is in the knowledge base or in a Wati quick reply, just answer the customer. Ping someone only for questions or requests Claude can't solve (bugs, account changes, decisions, missing information).
 - **When the team answers a case, relay it to the customer straight away** (in "we" form, no names, no promises they didn't make). Don't wait for another approval: the team's answer is the approval (Vasco, 16 Nov 2026).
+- **Don't write over the team:** if Vasco or another team member wrote in the customer chat in the **last 5 minutes**, don't send anything there; report it instead. After 5 minutes, relay as usual (Vasco, 25 Nov 2026).
 - **Jira tickets:** when creating a Jira ticket for someone, **don't announce it in #cs**. #cs is only for customer support (Raffa's request, 16 Nov 2026). Only post in #cs about the customer case itself (e.g. the customer is waiting).
 - **Format of every #cs escalation thread** (Vasco, 16 Nov 2026): tag the person, include the Jira ticket link **only for bugs/technical fixes** (create it in SCRUM, assigned to them; simple questions need no ticket), then:
   - **Wati Chat:** link to the Wati conversation: `https://eu.wati.io/1111622/teamInbox/<conversation id>` (the id is the conversation id from the API)
