@@ -499,3 +499,6 @@ The fuel-card file upload (Alves Bandeira / Solred "Movimentos por Faturar") onl
 
 ### "Aparece um ID (ex.: ID504) com o nome da empresa em todas as tabs"
 It appears when **Uber paid money directly to the company** that week (not to a driver), so the company shows up as if it were a driver. Answer: "O ID com o nome da empresa aparece porque esta semana a Uber enviou dinheiro diretamente para a empresa. Por isso surge como se fosse um motorista." (confirmed by Vasco, 23 Nov 2026)
+
+### "Não é possível meter o total do conta-quilómetros em vez dos km da semana? É mais simples"
+No. With the odometer total, they'd have to enter every week both last week's and this week's reading so the system can work out the km driven: double the work. Answer: "Se fosse o total do conta-quilómetros, teria de meter todas as semanas o valor da semana anterior e o da semana atual para o sistema calcular os km percorridos, ou seja, o dobro do trabalho. Por isso basta meter os km que o motorista fez na semana." (confirmed by Vasco, 25 Nov 2026)
