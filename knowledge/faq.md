@@ -15,10 +15,9 @@ The team triggered a login to the customer's platform account. Codes expire with
 ### "Vai receber um código" / "Pode pedir o código?"
 **Answer:** "Vamos pedir agora o acesso. Vai receber um código por SMS ou email da [plataforma]. Assim que receber, envie-nos por aqui, por favor (o código expira em poucos minutos)."
 
-### "Alterei a password da Uber/Bolt/Prio e não recebo o SMS" / "a Uber deixou de atualizar"
-When the customer changes a platform password, our sync stops. Someone on the team has to log in again with the new password, and the platform sends a code to the customer at that moment. Uber's SMS is sometimes slow, but it does arrive.
-**Answer:** "Como a password foi alterada, precisamos de voltar a ligar a sua conta [Uber] ao GalgoSheets. Isto é feito manualmente pela nossa equipa: vamos pedir o acesso e nessa altura vai receber um código por SMS — é só enviar-nos. Combinamos consigo a hora para estar disponível."
-➡️ Escalate to whoever handles integrations (see escalation.md). ⚠️ How should customers send the new password? Today it often comes through WhatsApp.
+### "Alterei a password da Uber/Bolt/Prio" / "a Uber deixou de atualizar"
+When the customer changes a platform password, our sync stops. **We don't have their passwords, so the customer updates the new password in GalgoSheets themselves** (Plataformas → change credentials). Send the video. If the platform then sends a verification code (Uber SMS can be slow, but it arrives), they forward it to us.
+**Answer:** "A nova senha tem de ser atualizada por si na GalgoSheets, porque nós não temos acesso às senhas. Este vídeo mostra como fazer: https://www.loom.com/share/691652278b694adbb88f64401d9a9709" (confirmed by Vasco, 26 Nov 2026). Never say "vamos voltar a ligar a sua conta" — the team can't without the password.
 
 ### "Qual é a minha senha?" / "esqueci-me da password"
 **We don't handle passwords.** Send the customer the video on how to reset the password (confirmed by Vasco, 23 Nov 2026). **Answer:** "Por segurança não temos acesso às senhas. Pode redefinir a sua senha facilmente: este vídeo mostra como https://www.loom.com/share/cc4433e5285e4efc82728803ad245883"
