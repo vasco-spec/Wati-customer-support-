@@ -501,3 +501,6 @@ It appears when **Uber paid money directly to the company** that week (not to a 
 
 ### "Não é possível meter o total do conta-quilómetros em vez dos km da semana? É mais simples"
 No. With the odometer total, they'd have to enter every week both last week's and this week's reading so the system can work out the km driven: double the work. Answer: "Se fosse o total do conta-quilómetros, teria de meter todas as semanas o valor da semana anterior e o da semana atual para o sistema calcular os km percorridos, ou seja, o dobro do trabalho. Por isso basta meter os km que o motorista fez na semana." (confirmed by Vasco, 25 Nov 2026)
+
+### "Fiz uma cobrança por débito direto (GoCardless). Como retiro o dinheiro?"
+The payout is automatic to the bank account they registered; there's no "withdraw" option. It can take **up to 3 days**. In the **Payments** tab: **Confirmed** = the customer was charged; **Paid out** = the money was transferred to their account. **Answer:** "O dinheiro pode demorar até 3 dias a chegar à sua conta, a transferência é automática. Pode ver o estado de cada cobrança no separador Pagamentos: quando aparece "Confirmado" o cliente já foi cobrado, e quando aparece "Pago" (paid out) o valor já foi transferido para a sua conta." (confirmed by Vasco, 26 Nov 2026)
