@@ -4,6 +4,8 @@
 
 These are the videos the team already sends to customers, collected from WhatsApp conversations. The "used" column counts how many times each was sent in conversations since April 2026. ⚠️ The descriptions come from the message the video was sent with. Once we have the Loom transcripts, they'll be replaced with real summaries.
 
+**Two Autos products** (Vasco, 26 Nov 2026): **Simplified Autos** lives inside the main platform and only assigns a vehicle to a driver quickly; it does **not** generate any document. **Complete Autos** generates a **PDF signed by both the fleet and the driver, sent by email**, and also lets them **schedule vehicle maintenance**. When someone asks about the full/complete Autos system, send the Entrega and Recolha videos, not the simplified one.
+
 **Training pack for a customer's new team members** (sent 25 Nov 2026, Vasco OK): overview, Step 1, Step 2, Mapa de Parcelamentos, plus the 3 Autos videos (register an Auto, Entrega, Recolha).
 
 ## Getting started / weekly cycle
@@ -37,9 +39,9 @@ These are the videos the team already sends to customers, collected from WhatsAp
 |---|---|---|
 | Edit vehicles and cards; driver with 2 plates/cards (from 0:43) | https://www.loom.com/share/247137ff644847fb845bc8d68fc08f88 | 12× |
 | Add vehicles manually | https://www.loom.com/share/bd24c356c17b4e63860fa57473770257 | 1× |
-| Register a handover record ("Auto") quickly | https://www.loom.com/share/212a7d23c1314239920b895efe623132 | 6× |
-| Autos: how to do a car delivery (Entrega), by Raffa | https://www.loom.com/share/f802fde8df594d8cb2cac4fd0ddc0fc1 | — |
-| Autos: how to do a car pickup (Recolha), by Raffa | https://www.loom.com/share/a87303f7345247cead07bc1c6eb7e333 | — |
+| **Simplified Autos** (inside the main platform): quickly assign a vehicle to a driver. No signed PDF, no email | https://www.loom.com/share/212a7d23c1314239920b895efe623132 | 6× |
+| **Complete Autos**: car delivery (Entrega), by Raffa | https://www.loom.com/share/f802fde8df594d8cb2cac4fd0ddc0fc1 | — |
+| **Complete Autos**: car pickup (Recolha), by Raffa | https://www.loom.com/share/a87303f7345247cead07bc1c6eb7e333 | — |
 | Car handover (entrega) | https://www.loom.com/share/f802fde8df594d8cb2cac4fd0ddc0fc1 | 1× |
 | Car pickup (recolha) | https://www.loom.com/share/a87303f7345247cead07bc1c6eb7e333 | 1× |
 | Splitting charges when a car changes driver mid-week ⚠️ | https://www.loom.com/share/7171b7e1ba0c47d68135aafa8f8561ce | 2× |
