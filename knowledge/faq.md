@@ -458,6 +458,7 @@ We can advertise the fleet's cars to the drivers in our base (approved template 
 ### "Onde está a fatura da mensalidade?" / "Preciso da vossa fatura"
 Our invoices (the GalgoSheets subscription) are in the **Contabilidade** tab of the back office. (Rule from the team, Nov 2026.)
 **Answer:** "Pode encontrar as nossas faturas no separador Contabilidade da plataforma: https://galgosheets-backoffice-v2.netlify.app/contabilidade"
+**If an invoice is missing from the Contabilidade tab**, ask the **Finance GalgoSheets** Claude session for it: it gets the InvoiceXpress PDF link (safe to forward on WhatsApp). A missing month is often an invoice that was cancelled with a credit note and replaced (confirmed 27 Nov 2026).
 
 ### "Recebi um aviso de cancelamento da subscrição"
 **Answer:** "Não se preocupe, não tem de fazer nada — recebeu um email a informar que mudou a entidade que faz as cobranças."
