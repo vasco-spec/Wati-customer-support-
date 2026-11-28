@@ -5,6 +5,7 @@
 These are the videos the team already sends to customers, collected from WhatsApp conversations. The "used" column counts how many times each was sent in conversations since April 2026. ⚠️ The descriptions come from the message the video was sent with. Once we have the Loom transcripts, they'll be replaced with real summaries.
 
 **Two Autos products** (Vasco, 26 Nov 2026): **Simplified Autos** lives inside the main platform and only assigns a vehicle to a driver quickly; it does **not** generate any document. **Complete Autos** generates a **PDF signed by both the fleet and the driver, sent by email**, and also lets them **schedule vehicle maintenance**. When someone asks about the full/complete Autos system, send the Entrega and Recolha videos, not the simplified one.
+**Complete Autos link:** https://galgosheets-autos.netlify.app/login — same email and password as the payments system. Standard message: "Segue o sistema dos Autos (vistorias, entrega e recolha dos carros). Pode entrar por este link: https://galgosheets-autos.netlify.app/login com o mesmo email e password do sistema de pagamentos." (sent by Raffa and Vasco to customers, Oct–Nov 2026). The Loom videos have no link attached.
 
 **Training pack for a customer's new team members** (sent 25 Nov 2026, Vasco OK): overview, Step 1, Step 2, Mapa de Parcelamentos, plus the 3 Autos videos (register an Auto, Entrega, Recolha).
 
