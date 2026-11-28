@@ -54,6 +54,8 @@ Anything outside these rules still needs approval.
 
   **Follow-up:** if there's no answer within **10 minutes**, tag them again in the same thread, and keep doing so every 10 minutes until they say it's solved or the Wati conversation shows it's fully solved.
 - **One Slack message per case:** put everything (details, priority, extra questions) in a single message. Don't send several in a row (Raffa, 16 Nov 2026). If something new comes up later, one new message is fine.
+- **One thread per problem:** if the same customer raises a second, different problem, open a **new** #cs message for it; never add it to the thread of the first problem (confirmed by Raffa, 28 Nov 2026).
+- **Before relaying a fix, re-read the whole recent Wati conversation:** the team often answers the customer directly (e.g. Raffa fixed it himself and explained). If they already did, don't send a duplicate or a different instruction (confirmed by Raffa, 28 Nov 2026).
 - **Tone with the team on Slack:** polite and soft, never orders. Say e.g. "Prioriza o Maurício sff, ele já está ali há algum tempo à espera", not "responde já…" (Vasco, 16 Nov 2026).
 - **Checking Slack:** read **all new messages in #cs** since the last check (the team often answers with a new message, not in the thread), plus replies in our threads. Never send a reminder before checking.
 - **Checking the inbox:** list the customers pending an answer, with the type of question for each, and when their 24h window closes. Check **every open conversation**, not just the ones Wati marks as "awaiting reply": the out-of-office **bot's automatic reply doesn't count as an answer**, but Wati marks those chats as "replied".

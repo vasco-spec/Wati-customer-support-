@@ -78,6 +78,9 @@ Two different cases, so first ask which one the customer means:
 ### "Adicionei um motorista novo e não aparece" / "new driver not showing"
 **Answer:** if the driver isn't there, either they **didn't work last week**, or the **Uber/Bolt data isn't synchronised yet**. If the Uber or Bolt box is yellow, wait and refresh. EN draft: "If the new driver is not showing, it means he didn't work last week, or the Uber/Bolt data is not synchronised yet. You can check it at the top of the page: if the Uber or Bolt box is green ("Ver dados"), the data is already there. If it's yellow, please wait a bit and refresh the page." (confirmed by Vasco, 16 Nov 2026)
 
+### "O motorista aparece com dois nomes diferentes" (e.g. in an old Auto vs the drivers list)
+The driver was added **manually** with one name, and the platform (Uber/Bolt) has him under another, so two records appear. **Answer:** "Isto acontece porque o motorista foi adicionado manualmente com um nome diferente do que tem na plataforma. Recomendamos colocar sempre o nome do motorista igual ao da plataforma (Uber/Bolt)." (confirmed by Raffa, 28 Nov 2026)
+
 ### "A Bolt pede para mudar a chave da API para V2 (a V1 caduca)"
 Bolt is retiring fleet API keys V1 (expiry 31 Jan 2027). The team is already handling the switch to V2; the customer doesn't need to do anything. **Answer:** "Obrigado pelo aviso. Não precisa de se preocupar, já estamos a tratar da mudança para a API V2 da Bolt." (confirmed by Vasco, 18 Nov 2026)
 
